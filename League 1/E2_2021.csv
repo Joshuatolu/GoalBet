@@ -1,0 +1,553 @@
+Div,season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
+E2,2021,12/09/2020,15:00,Accrington,Peterboro,2,0
+E2,2021,12/09/2020,15:00,Crewe,Charlton,0,2
+E2,2021,12/09/2020,15:00,Doncaster,Milton Keynes Dons,1,1
+E2,2021,12/09/2020,15:00,Fleetwood Town,Burton,2,1
+E2,2021,12/09/2020,15:00,Gillingham,Hull,0,2
+E2,2021,12/09/2020,15:00,Lincoln,Oxford,2,0
+E2,2021,12/09/2020,15:00,Northampton,AFC Wimbledon,2,2
+E2,2021,12/09/2020,15:00,Plymouth,Blackpool,1,0
+E2,2021,12/09/2020,15:00,Portsmouth,Shrewsbury,0,0
+E2,2021,12/09/2020,15:00,Sunderland,Bristol Rvs,1,1
+E2,2021,12/09/2020,15:00,Swindon,Rochdale,3,1
+E2,2021,13/09/2020,12:00,Ipswich,Wigan,2,0
+E2,2021,19/09/2020,15:00,AFC Wimbledon,Plymouth,4,4
+E2,2021,19/09/2020,15:00,Blackpool,Swindon,2,0
+E2,2021,19/09/2020,15:00,Bristol Rvs,Ipswich,0,2
+E2,2021,19/09/2020,15:00,Burton,Accrington,2,1
+E2,2021,19/09/2020,15:00,Charlton,Doncaster,1,3
+E2,2021,19/09/2020,15:00,Hull,Crewe,1,0
+E2,2021,19/09/2020,15:00,Milton Keynes Dons,Lincoln,1,2
+E2,2021,19/09/2020,15:00,Oxford,Sunderland,0,2
+E2,2021,19/09/2020,15:00,Peterboro,Fleetwood Town,2,1
+E2,2021,19/09/2020,15:00,Shrewsbury,Northampton,1,2
+E2,2021,19/09/2020,15:00,Wigan,Gillingham,2,3
+E2,2021,20/09/2020,15:00,Rochdale,Portsmouth,0,0
+E2,2021,26/09/2020,15:00,Accrington,Oxford,1,4
+E2,2021,26/09/2020,15:00,Crewe,Milton Keynes Dons,2,0
+E2,2021,26/09/2020,15:00,Doncaster,Bristol Rvs,4,1
+E2,2021,26/09/2020,15:00,Fleetwood Town,AFC Wimbledon,0,1
+E2,2021,26/09/2020,15:00,Gillingham,Blackpool,2,0
+E2,2021,26/09/2020,15:00,Ipswich,Rochdale,2,0
+E2,2021,26/09/2020,15:00,Northampton,Hull,0,2
+E2,2021,26/09/2020,15:00,Plymouth,Shrewsbury,1,1
+E2,2021,26/09/2020,15:00,Portsmouth,Wigan,1,2
+E2,2021,26/09/2020,15:00,Sunderland,Peterboro,1,0
+E2,2021,26/09/2020,15:00,Swindon,Burton,4,2
+E2,2021,27/09/2020,15:00,Lincoln,Charlton,2,0
+E2,2021,03/10/2020,15:00,AFC Wimbledon,Accrington,1,2
+E2,2021,03/10/2020,15:00,Blackpool,Lincoln,2,3
+E2,2021,03/10/2020,15:00,Bristol Rvs,Northampton,2,0
+E2,2021,03/10/2020,15:00,Burton,Portsmouth,2,4
+E2,2021,03/10/2020,15:00,Charlton,Sunderland,0,0
+E2,2021,03/10/2020,15:00,Hull,Plymouth,1,0
+E2,2021,03/10/2020,15:00,Milton Keynes Dons,Ipswich,1,1
+E2,2021,03/10/2020,15:00,Peterboro,Swindon,3,1
+E2,2021,03/10/2020,15:00,Rochdale,Fleetwood Town,2,1
+E2,2021,03/10/2020,15:00,Shrewsbury,Gillingham,1,1
+E2,2021,03/10/2020,15:00,Wigan,Doncaster,1,0
+E2,2021,09/10/2020,19:45,Fleetwood Town,Hull,4,1
+E2,2021,10/10/2020,13:00,Gillingham,Oxford,3,1
+E2,2021,10/10/2020,15:00,Accrington,Rochdale,2,1
+E2,2021,10/10/2020,15:00,Blackpool,Ipswich,1,4
+E2,2021,10/10/2020,15:00,Crewe,Wigan,3,0
+E2,2021,10/10/2020,15:00,Lincoln,Bristol Rvs,1,2
+E2,2021,10/10/2020,15:00,Northampton,Peterboro,0,2
+E2,2021,10/10/2020,15:00,Plymouth,Burton,2,0
+E2,2021,10/10/2020,15:00,Portsmouth,Milton Keynes Dons,2,1
+E2,2021,10/10/2020,15:00,Swindon,AFC Wimbledon,0,1
+E2,2021,17/10/2020,13:00,Milton Keynes Dons,Gillingham,2,0
+E2,2021,17/10/2020,15:00,AFC Wimbledon,Shrewsbury,0,1
+E2,2021,17/10/2020,15:00,Bristol Rvs,Burton,1,1
+E2,2021,17/10/2020,15:00,Charlton,Wigan,1,0
+E2,2021,17/10/2020,15:00,Crewe,Blackpool,1,1
+E2,2021,17/10/2020,15:00,Fleetwood Town,Lincoln,0,0
+E2,2021,17/10/2020,15:00,Ipswich,Accrington,2,0
+E2,2021,17/10/2020,15:00,Peterboro,Oxford,2,0
+E2,2021,17/10/2020,15:00,Plymouth,Northampton,2,1
+E2,2021,17/10/2020,15:00,Portsmouth,Doncaster,0,1
+E2,2021,17/10/2020,15:00,Rochdale,Hull,0,3
+E2,2021,17/10/2020,15:00,Swindon,Sunderland,0,2
+E2,2021,20/10/2020,18:00,Shrewsbury,Bristol Rvs,0,1
+E2,2021,20/10/2020,18:30,Gillingham,Portsmouth,0,2
+E2,2021,20/10/2020,19:00,Accrington,Fleetwood Town,1,0
+E2,2021,20/10/2020,19:00,Blackpool,Charlton,0,1
+E2,2021,20/10/2020,19:00,Doncaster,Ipswich,4,1
+E2,2021,20/10/2020,19:00,Hull,AFC Wimbledon,1,0
+E2,2021,20/10/2020,19:00,Lincoln,Plymouth,2,0
+E2,2021,20/10/2020,19:00,Oxford,Milton Keynes Dons,3,2
+E2,2021,20/10/2020,19:00,Sunderland,Crewe,1,0
+E2,2021,20/10/2020,19:00,Wigan,Peterboro,0,1
+E2,2021,20/10/2020,19:45,Burton,Rochdale,0,1
+E2,2021,20/10/2020,19:45,Northampton,Swindon,2,1
+E2,2021,24/10/2020,13:00,Gillingham,Fleetwood Town,0,2
+E2,2021,24/10/2020,15:00,Blackpool,Milton Keynes Dons,1,0
+E2,2021,24/10/2020,15:00,Burton,AFC Wimbledon,1,1
+E2,2021,24/10/2020,15:00,Doncaster,Crewe,1,2
+E2,2021,24/10/2020,15:00,Hull,Peterboro,1,2
+E2,2021,24/10/2020,15:00,Lincoln,Ipswich,1,0
+E2,2021,24/10/2020,15:00,Northampton,Charlton,0,2
+E2,2021,24/10/2020,15:00,Shrewsbury,Rochdale,1,2
+E2,2021,24/10/2020,15:00,Sunderland,Portsmouth,1,3
+E2,2021,24/10/2020,15:00,Wigan,Plymouth,1,1
+E2,2021,27/10/2020,19:00,AFC Wimbledon,Blackpool,1,0
+E2,2021,27/10/2020,19:00,Bristol Rvs,Hull,1,3
+E2,2021,27/10/2020,19:00,Charlton,Oxford,2,0
+E2,2021,27/10/2020,19:00,Crewe,Lincoln,0,1
+E2,2021,27/10/2020,19:00,Ipswich,Gillingham,1,0
+E2,2021,27/10/2020,19:00,Milton Keynes Dons,Wigan,2,0
+E2,2021,27/10/2020,19:00,Peterboro,Burton,2,2
+E2,2021,27/10/2020,19:45,Fleetwood Town,Shrewsbury,1,0
+E2,2021,27/10/2020,19:45,Plymouth,Doncaster,2,1
+E2,2021,27/10/2020,19:45,Portsmouth,Northampton,4,0
+E2,2021,27/10/2020,19:45,Rochdale,Sunderland,2,2
+E2,2021,31/10/2020,13:00,Gillingham,Sunderland,0,2
+E2,2021,31/10/2020,15:00,Burton,Blackpool,1,2
+E2,2021,31/10/2020,15:00,Doncaster,Lincoln,1,0
+E2,2021,31/10/2020,15:00,Fleetwood Town,Oxford,2,0
+E2,2021,31/10/2020,15:00,Ipswich,Crewe,1,0
+E2,2021,31/10/2020,15:00,Milton Keynes Dons,AFC Wimbledon,1,1
+E2,2021,31/10/2020,15:00,Peterboro,Shrewsbury,5,1
+E2,2021,31/10/2020,15:00,Portsmouth,Charlton,0,2
+E2,2021,31/10/2020,15:00,Rochdale,Bristol Rvs,1,1
+E2,2021,31/10/2020,15:00,Swindon,Hull,2,1
+E2,2021,31/10/2020,15:00,Wigan,Northampton,2,3
+E2,2021,03/11/2020,18:00,Shrewsbury,Burton,1,1
+E2,2021,03/11/2020,19:00,Blackpool,Wigan,1,0
+E2,2021,03/11/2020,19:00,Bristol Rvs,Peterboro,0,2
+E2,2021,03/11/2020,19:00,Charlton,Fleetwood Town,3,2
+E2,2021,03/11/2020,19:00,Crewe,Gillingham,0,1
+E2,2021,03/11/2020,19:00,Lincoln,Portsmouth,1,3
+E2,2021,03/11/2020,19:00,Oxford,Rochdale,3,1
+E2,2021,03/11/2020,19:00,Plymouth,Swindon,4,2
+E2,2021,03/11/2020,19:00,Sunderland,Ipswich,2,1
+E2,2021,03/11/2020,19:45,AFC Wimbledon,Doncaster,2,2
+E2,2021,03/11/2020,19:45,Northampton,Milton Keynes Dons,0,0
+E2,2021,14/11/2020,15:00,Bristol Rvs,Fleetwood Town,1,4
+E2,2021,14/11/2020,15:00,Crewe,Peterboro,2,0
+E2,2021,14/11/2020,15:00,Hull,Burton,2,0
+E2,2021,14/11/2020,15:00,Northampton,Accrington,0,1
+E2,2021,14/11/2020,15:00,Shrewsbury,Swindon,3,3
+E2,2021,14/11/2020,15:00,Sunderland,Milton Keynes Dons,1,2
+E2,2021,16/11/2020,19:45,Plymouth,Portsmouth,2,2
+E2,2021,17/11/2020,19:00,Oxford,Crewe,0,2
+E2,2021,17/11/2020,19:00,Swindon,Accrington,0,3
+E2,2021,21/11/2020,13:00,Gillingham,Charlton,1,1
+E2,2021,21/11/2020,15:00,Accrington,Lincoln,0,0
+E2,2021,21/11/2020,15:00,Burton,Northampton,1,3
+E2,2021,21/11/2020,15:00,Doncaster,Sunderland,1,1
+E2,2021,21/11/2020,15:00,Fleetwood Town,Plymouth,5,1
+E2,2021,21/11/2020,15:00,Ipswich,Shrewsbury,2,1
+E2,2021,21/11/2020,15:00,Milton Keynes Dons,Hull,1,3
+E2,2021,21/11/2020,15:00,Peterboro,Blackpool,1,2
+E2,2021,21/11/2020,15:00,Portsmouth,Crewe,4,1
+E2,2021,21/11/2020,15:00,Rochdale,AFC Wimbledon,0,1
+E2,2021,21/11/2020,15:00,Swindon,Bristol Rvs,1,0
+E2,2021,21/11/2020,15:00,Wigan,Oxford,1,2
+E2,2021,24/11/2020,18:00,Gillingham,AFC Wimbledon,2,1
+E2,2021,24/11/2020,19:00,Accrington,Crewe,1,0
+E2,2021,24/11/2020,19:00,Burton,Charlton,4,2
+E2,2021,24/11/2020,19:00,Doncaster,Blackpool,3,2
+E2,2021,24/11/2020,19:00,Ipswich,Hull,0,3
+E2,2021,24/11/2020,19:00,Milton Keynes Dons,Shrewsbury,2,2
+E2,2021,24/11/2020,19:00,Peterboro,Plymouth,1,0
+E2,2021,24/11/2020,19:00,Portsmouth,Oxford,1,1
+E2,2021,24/11/2020,19:00,Rochdale,Northampton,1,1
+E2,2021,24/11/2020,19:00,Swindon,Lincoln,0,1
+E2,2021,24/11/2020,19:00,Wigan,Bristol Rvs,0,0
+E2,2021,27/11/2020,19:45,Fleetwood Town,Sunderland,1,1
+E2,2021,28/11/2020,15:00,Ipswich,Charlton,0,2
+E2,2021,28/11/2020,15:00,Oxford,Swindon,1,2
+E2,2021,01/12/2020,19:00,Blackpool,Portsmouth,1,0
+E2,2021,01/12/2020,19:00,Crewe,Swindon,4,2
+E2,2021,01/12/2020,19:00,Lincoln,Wigan,2,1
+E2,2021,01/12/2020,19:00,Oxford,Ipswich,0,0
+E2,2021,01/12/2020,19:00,Sunderland,Burton,1,1
+E2,2021,01/12/2020,19:45,Northampton,Fleetwood Town,1,0
+E2,2021,01/12/2020,19:45,Plymouth,Rochdale,0,4
+E2,2021,02/12/2020,18:00,AFC Wimbledon,Peterboro,2,1
+E2,2021,02/12/2020,19:00,Bristol Rvs,Gillingham,0,2
+E2,2021,02/12/2020,19:00,Hull,Doncaster,2,1
+E2,2021,02/12/2020,19:45,Charlton,Milton Keynes Dons,0,1
+E2,2021,02/12/2020,19:45,Shrewsbury,Accrington,2,2
+E2,2021,05/12/2020,13:00,Gillingham,Swindon,2,0
+E2,2021,05/12/2020,15:00,Accrington,Milton Keynes Dons,2,1
+E2,2021,05/12/2020,15:00,AFC Wimbledon,Bristol Rvs,2,4
+E2,2021,05/12/2020,15:00,Burton,Crewe,1,1
+E2,2021,05/12/2020,15:00,Fleetwood Town,Blackpool,0,1
+E2,2021,05/12/2020,15:00,Northampton,Doncaster,0,2
+E2,2021,05/12/2020,15:00,Oxford,Hull,1,1
+E2,2021,05/12/2020,15:00,Plymouth,Ipswich,1,2
+E2,2021,05/12/2020,15:00,Portsmouth,Peterboro,2,0
+E2,2021,05/12/2020,15:00,Rochdale,Lincoln,0,2
+E2,2021,05/12/2020,15:00,Shrewsbury,Charlton,1,1
+E2,2021,05/12/2020,15:00,Sunderland,Wigan,0,1
+E2,2021,12/12/2020,15:00,Blackpool,Oxford,0,0
+E2,2021,12/12/2020,15:00,Bristol Rvs,Plymouth,3,0
+E2,2021,12/12/2020,15:00,Charlton,AFC Wimbledon,5,2
+E2,2021,12/12/2020,15:00,Crewe,Northampton,2,1
+E2,2021,12/12/2020,15:00,Doncaster,Gillingham,2,1
+E2,2021,12/12/2020,15:00,Hull,Shrewsbury,0,1
+E2,2021,12/12/2020,15:00,Ipswich,Portsmouth,0,2
+E2,2021,12/12/2020,15:00,Lincoln,Sunderland,0,4
+E2,2021,12/12/2020,15:00,Milton Keynes Dons,Burton,1,1
+E2,2021,12/12/2020,15:00,Peterboro,Rochdale,4,1
+E2,2021,12/12/2020,15:00,Swindon,Fleetwood Town,0,1
+E2,2021,12/12/2020,15:00,Wigan,Accrington,4,3
+E2,2021,15/12/2020,17:30,Gillingham,Accrington,0,2
+E2,2021,15/12/2020,19:00,Blackpool,Hull,3,2
+E2,2021,15/12/2020,19:00,Crewe,Plymouth,2,1
+E2,2021,15/12/2020,19:00,Doncaster,Swindon,2,1
+E2,2021,15/12/2020,19:00,Lincoln,Shrewsbury,0,1
+E2,2021,15/12/2020,19:00,Sunderland,AFC Wimbledon,1,1
+E2,2021,15/12/2020,19:00,Wigan,Rochdale,0,5
+E2,2021,15/12/2020,19:45,Ipswich,Burton,2,1
+E2,2021,15/12/2020,19:45,Milton Keynes Dons,Peterboro,1,1
+E2,2021,15/12/2020,19:45,Oxford,Northampton,4,0
+E2,2021,15/12/2020,19:45,Portsmouth,Fleetwood Town,0,0
+E2,2021,18/12/2020,17:30,Hull,Portsmouth,0,2
+E2,2021,19/12/2020,13:00,Rochdale,Gillingham,1,4
+E2,2021,19/12/2020,15:00,Accrington,Blackpool,0,0
+E2,2021,19/12/2020,15:00,AFC Wimbledon,Crewe,1,2
+E2,2021,19/12/2020,15:00,Burton,Doncaster,1,3
+E2,2021,19/12/2020,15:00,Fleetwood Town,Wigan,1,1
+E2,2021,19/12/2020,15:00,Northampton,Lincoln,0,4
+E2,2021,19/12/2020,15:00,Plymouth,Milton Keynes Dons,1,0
+E2,2021,19/12/2020,15:00,Swindon,Charlton,2,2
+E2,2021,22/12/2020,19:45,Doncaster,Shrewsbury,0,1
+E2,2021,26/12/2020,15:00,Charlton,Plymouth,2,2
+E2,2021,26/12/2020,15:00,Crewe,Fleetwood Town,1,1
+E2,2021,26/12/2020,15:00,Lincoln,Burton,5,1
+E2,2021,26/12/2020,15:00,Milton Keynes Dons,Bristol Rvs,2,0
+E2,2021,26/12/2020,15:00,Oxford,AFC Wimbledon,2,0
+E2,2021,26/12/2020,15:00,Wigan,Shrewsbury,1,1
+E2,2021,29/12/2020,18:30,Burton,Wigan,3,4
+E2,2021,29/12/2020,19:00,Swindon,Milton Keynes Dons,1,4
+E2,2021,29/12/2020,19:45,Northampton,Gillingham,3,1
+E2,2021,29/12/2020,19:45,Plymouth,Oxford,2,3
+E2,2021,29/12/2020,19:45,Shrewsbury,Blackpool,1,0
+E2,2021,02/01/2021,15:00,AFC Wimbledon,Lincoln,1,2
+E2,2021,02/01/2021,15:00,Bristol Rvs,Blackpool,2,1
+E2,2021,02/01/2021,15:00,Burton,Oxford,1,5
+E2,2021,02/01/2021,15:00,Hull,Charlton,2,0
+E2,2021,02/01/2021,15:00,Northampton,Sunderland,0,0
+E2,2021,02/01/2021,15:00,Plymouth,Gillingham,1,0
+E2,2021,08/01/2021,19:45,Charlton,Accrington,0,2
+E2,2021,09/01/2021,12:30,Lincoln,Peterboro,1,1
+E2,2021,09/01/2021,14:00,Gillingham,Burton,0,1
+E2,2021,09/01/2021,15:00,Rochdale,Crewe,3,3
+E2,2021,09/01/2021,17:30,Ipswich,Swindon,2,3
+E2,2021,09/01/2021,19:45,Sunderland,Hull,1,1
+E2,2021,12/01/2021,19:00,Charlton,Rochdale,4,4
+E2,2021,16/01/2021,13:00,AFC Wimbledon,Sunderland,0,3
+E2,2021,16/01/2021,15:00,Accrington,Gillingham,0,1
+E2,2021,16/01/2021,15:00,Bristol Rvs,Charlton,0,1
+E2,2021,16/01/2021,15:00,Burton,Ipswich,0,1
+E2,2021,16/01/2021,15:00,Fleetwood Town,Portsmouth,0,1
+E2,2021,16/01/2021,15:00,Hull,Blackpool,1,1
+E2,2021,16/01/2021,15:00,Peterboro,Milton Keynes Dons,3,0
+E2,2021,16/01/2021,15:00,Plymouth,Crewe,1,1
+E2,2021,16/01/2021,15:00,Rochdale,Wigan,3,3
+E2,2021,16/01/2021,15:00,Swindon,Doncaster,1,2
+E2,2021,19/01/2021,17:30,Hull,Accrington,3,0
+E2,2021,19/01/2021,18:30,Peterboro,Charlton,2,1
+E2,2021,19/01/2021,19:00,Crewe,Bristol Rvs,3,2
+E2,2021,19/01/2021,19:00,Doncaster,Rochdale,1,0
+E2,2021,19/01/2021,19:00,Milton Keynes Dons,Fleetwood Town,3,1
+E2,2021,19/01/2021,19:00,Portsmouth,AFC Wimbledon,4,0
+E2,2021,19/01/2021,19:00,Sunderland,Plymouth,1,2
+E2,2021,23/01/2021,15:00,Charlton,Swindon,2,2
+E2,2021,23/01/2021,15:00,Crewe,AFC Wimbledon,1,1
+E2,2021,23/01/2021,15:00,Gillingham,Rochdale,2,2
+E2,2021,23/01/2021,15:00,Ipswich,Peterboro,0,1
+E2,2021,23/01/2021,15:00,Lincoln,Northampton,2,1
+E2,2021,23/01/2021,15:00,Oxford,Bristol Rvs,2,0
+E2,2021,23/01/2021,15:00,Portsmouth,Hull,0,4
+E2,2021,23/01/2021,15:00,Sunderland,Shrewsbury,1,0
+E2,2021,23/01/2021,15:00,Wigan,Fleetwood Town,0,0
+E2,2021,26/01/2021,17:30,Accrington,Hull,2,0
+E2,2021,26/01/2021,18:00,Gillingham,Crewe,4,1
+E2,2021,26/01/2021,19:00,Doncaster,AFC Wimbledon,2,0
+E2,2021,26/01/2021,19:00,Milton Keynes Dons,Charlton,0,1
+E2,2021,26/01/2021,19:00,Peterboro,Bristol Rvs,0,0
+E2,2021,26/01/2021,19:00,Portsmouth,Lincoln,0,1
+E2,2021,26/01/2021,19:00,Rochdale,Oxford,3,4
+E2,2021,26/01/2021,19:00,Swindon,Plymouth,0,2
+E2,2021,26/01/2021,19:00,Wigan,Blackpool,0,5
+E2,2021,26/01/2021,19:45,Fleetwood Town,Northampton,0,0
+E2,2021,26/01/2021,19:45,Ipswich,Sunderland,0,1
+E2,2021,30/01/2021,13:00,Sunderland,Gillingham,2,2
+E2,2021,30/01/2021,15:00,AFC Wimbledon,Milton Keynes Dons,0,2
+E2,2021,30/01/2021,15:00,Bristol Rvs,Rochdale,1,2
+E2,2021,30/01/2021,15:00,Crewe,Ipswich,1,1
+E2,2021,30/01/2021,15:00,Hull,Swindon,1,0
+E2,2021,30/01/2021,15:00,Lincoln,Doncaster,0,1
+E2,2021,30/01/2021,15:00,Oxford,Fleetwood Town,1,0
+E2,2021,30/01/2021,15:00,Plymouth,Accrington,2,2
+E2,2021,30/01/2021,15:00,Shrewsbury,Peterboro,2,0
+E2,2021,02/02/2021,18:00,Swindon,Wigan,1,0
+E2,2021,02/02/2021,19:00,Accrington,Bristol Rvs,6,1
+E2,2021,02/02/2021,19:00,Blackpool,Northampton,2,0
+E2,2021,02/02/2021,19:00,Charlton,Portsmouth,1,3
+E2,2021,02/02/2021,19:00,Shrewsbury,Crewe,0,1
+E2,2021,05/02/2021,18:00,Gillingham,Lincoln,0,3
+E2,2021,06/02/2021,15:00,Accrington,Northampton,0,0
+E2,2021,06/02/2021,15:00,Burton,Hull,1,0
+E2,2021,06/02/2021,15:00,Doncaster,Oxford,3,2
+E2,2021,06/02/2021,15:00,Fleetwood Town,Bristol Rvs,0,0
+E2,2021,06/02/2021,15:00,Ipswich,Blackpool,2,0
+E2,2021,06/02/2021,15:00,Milton Keynes Dons,Sunderland,2,2
+E2,2021,06/02/2021,15:00,Peterboro,Crewe,2,0
+E2,2021,06/02/2021,15:00,Portsmouth,Plymouth,2,2
+E2,2021,06/02/2021,15:00,Rochdale,Charlton,0,2
+E2,2021,06/02/2021,15:00,Swindon,Shrewsbury,0,1
+E2,2021,06/02/2021,15:00,Wigan,AFC Wimbledon,2,3
+E2,2021,09/02/2021,17:30,Accrington,Plymouth,0,1
+E2,2021,09/02/2021,19:00,Bristol Rvs,Oxford,0,2
+E2,2021,09/02/2021,19:00,Hull,Lincoln,0,0
+E2,2021,09/02/2021,19:00,Northampton,Wigan,0,1
+E2,2021,09/02/2021,19:00,Peterboro,Ipswich,2,1
+E2,2021,09/02/2021,19:00,Portsmouth,Swindon,2,0
+E2,2021,09/02/2021,19:00,Rochdale,Milton Keynes Dons,1,4
+E2,2021,09/02/2021,19:00,Shrewsbury,Sunderland,2,1
+E2,2021,09/02/2021,19:45,Fleetwood Town,Doncaster,3,1
+E2,2021,13/02/2021,15:00,Charlton,Gillingham,2,3
+E2,2021,13/02/2021,15:00,Hull,Milton Keynes Dons,0,1
+E2,2021,13/02/2021,15:00,Northampton,Burton,0,2
+E2,2021,13/02/2021,15:00,Plymouth,Fleetwood Town,1,0
+E2,2021,13/02/2021,15:00,Sunderland,Doncaster,4,1
+E2,2021,14/02/2021,15:00,Oxford,Wigan,2,1
+E2,2021,14/02/2021,18:00,Lincoln,Accrington,2,2
+E2,2021,16/02/2021,18:00,Gillingham,Peterboro,1,3
+E2,2021,16/02/2021,19:00,Blackpool,Rochdale,1,0
+E2,2021,16/02/2021,19:00,Bristol Rvs,Portsmouth,3,1
+E2,2021,16/02/2021,19:00,Ipswich,Northampton,0,0
+E2,2021,17/02/2021,17:30,Wigan,Hull,0,5
+E2,2021,17/02/2021,19:00,Doncaster,Accrington,0,1
+E2,2021,20/02/2021,13:00,Gillingham,Bristol Rvs,2,0
+E2,2021,20/02/2021,15:00,Accrington,Shrewsbury,1,1
+E2,2021,20/02/2021,15:00,Burton,Sunderland,0,3
+E2,2021,20/02/2021,15:00,Doncaster,Hull,3,3
+E2,2021,20/02/2021,15:00,Fleetwood Town,Charlton,1,1
+E2,2021,20/02/2021,15:00,Ipswich,Oxford,0,0
+E2,2021,20/02/2021,15:00,Milton Keynes Dons,Northampton,4,3
+E2,2021,20/02/2021,15:00,Peterboro,AFC Wimbledon,3,0
+E2,2021,20/02/2021,15:00,Portsmouth,Blackpool,0,1
+E2,2021,20/02/2021,15:00,Rochdale,Plymouth,0,0
+E2,2021,20/02/2021,15:00,Swindon,Crewe,2,1
+E2,2021,20/02/2021,15:00,Wigan,Lincoln,1,2
+E2,2021,23/02/2021,18:30,AFC Wimbledon,Gillingham,1,0
+E2,2021,23/02/2021,19:00,Bristol Rvs,Wigan,1,2
+E2,2021,23/02/2021,19:00,Charlton,Burton,1,2
+E2,2021,23/02/2021,19:00,Crewe,Accrington,2,0
+E2,2021,23/02/2021,19:00,Hull,Ipswich,0,1
+E2,2021,23/02/2021,19:00,Lincoln,Swindon,2,2
+E2,2021,23/02/2021,19:00,Northampton,Rochdale,0,0
+E2,2021,23/02/2021,19:00,Oxford,Portsmouth,0,1
+E2,2021,23/02/2021,19:00,Shrewsbury,Milton Keynes Dons,4,2
+E2,2021,23/02/2021,19:00,Sunderland,Fleetwood Town,2,0
+E2,2021,23/02/2021,19:30,Plymouth,Peterboro,0,3
+E2,2021,27/02/2021,15:00,AFC Wimbledon,Hull,0,3
+E2,2021,27/02/2021,15:00,Bristol Rvs,Shrewsbury,2,1
+E2,2021,27/02/2021,15:00,Charlton,Blackpool,0,3
+E2,2021,27/02/2021,15:00,Crewe,Sunderland,2,2
+E2,2021,27/02/2021,15:00,Fleetwood Town,Accrington,1,1
+E2,2021,27/02/2021,15:00,Ipswich,Doncaster,2,1
+E2,2021,27/02/2021,15:00,Milton Keynes Dons,Oxford,1,1
+E2,2021,27/02/2021,15:00,Peterboro,Wigan,2,1
+E2,2021,27/02/2021,15:00,Plymouth,Lincoln,4,3
+E2,2021,27/02/2021,15:00,Portsmouth,Gillingham,1,1
+E2,2021,27/02/2021,15:00,Rochdale,Burton,0,2
+E2,2021,27/02/2021,15:00,Swindon,Northampton,2,1
+E2,2021,02/03/2021,18:00,Gillingham,Milton Keynes Dons,3,2
+E2,2021,02/03/2021,18:00,Wigan,Charlton,0,1
+E2,2021,02/03/2021,19:00,Accrington,Ipswich,1,2
+E2,2021,02/03/2021,19:00,Blackpool,Crewe,1,1
+E2,2021,02/03/2021,19:00,Burton,Bristol Rvs,1,0
+E2,2021,02/03/2021,19:00,Doncaster,Portsmouth,2,1
+E2,2021,02/03/2021,19:00,Hull,Rochdale,2,0
+E2,2021,02/03/2021,19:00,Lincoln,Fleetwood Town,1,2
+E2,2021,02/03/2021,19:00,Northampton,Plymouth,2,0
+E2,2021,02/03/2021,19:00,Oxford,Peterboro,0,0
+E2,2021,02/03/2021,19:00,Shrewsbury,AFC Wimbledon,1,1
+E2,2021,02/03/2021,19:00,Sunderland,Swindon,1,0
+E2,2021,06/03/2021,13:00,Gillingham,Ipswich,3,1
+E2,2021,06/03/2021,15:00,Accrington,Swindon,2,1
+E2,2021,06/03/2021,15:00,Blackpool,AFC Wimbledon,1,1
+E2,2021,06/03/2021,15:00,Burton,Peterboro,2,1
+E2,2021,06/03/2021,15:00,Doncaster,Plymouth,2,1
+E2,2021,06/03/2021,15:00,Hull,Bristol Rvs,2,0
+E2,2021,06/03/2021,15:00,Lincoln,Crewe,3,0
+E2,2021,06/03/2021,15:00,Northampton,Portsmouth,4,1
+E2,2021,06/03/2021,15:00,Oxford,Charlton,0,0
+E2,2021,06/03/2021,15:00,Shrewsbury,Fleetwood Town,0,2
+E2,2021,06/03/2021,15:00,Sunderland,Rochdale,2,0
+E2,2021,06/03/2021,15:00,Wigan,Milton Keynes Dons,3,0
+E2,2021,09/03/2021,19:00,AFC Wimbledon,Burton,0,1
+E2,2021,09/03/2021,19:00,Bristol Rvs,Accrington,4,1
+E2,2021,09/03/2021,19:00,Charlton,Northampton,2,1
+E2,2021,09/03/2021,19:00,Crewe,Doncaster,1,0
+E2,2021,09/03/2021,19:00,Ipswich,Lincoln,1,1
+E2,2021,09/03/2021,19:00,Milton Keynes Dons,Blackpool,0,1
+E2,2021,09/03/2021,19:00,Peterboro,Hull,1,3
+E2,2021,09/03/2021,19:00,Plymouth,Wigan,0,2
+E2,2021,09/03/2021,19:00,Rochdale,Shrewsbury,0,2
+E2,2021,09/03/2021,19:00,Swindon,Oxford,1,2
+E2,2021,09/03/2021,19:45,Fleetwood Town,Gillingham,1,0
+E2,2021,09/03/2021,19:45,Portsmouth,Sunderland,0,2
+E2,2021,13/03/2021,13:00,Swindon,Gillingham,1,3
+E2,2021,13/03/2021,15:00,Blackpool,Fleetwood Town,0,0
+E2,2021,13/03/2021,15:00,Bristol Rvs,AFC Wimbledon,0,0
+E2,2021,13/03/2021,15:00,Charlton,Shrewsbury,1,1
+E2,2021,13/03/2021,15:00,Crewe,Burton,0,3
+E2,2021,13/03/2021,15:00,Doncaster,Northampton,0,0
+E2,2021,13/03/2021,15:00,Hull,Oxford,2,0
+E2,2021,13/03/2021,15:00,Ipswich,Plymouth,1,0
+E2,2021,13/03/2021,15:00,Lincoln,Rochdale,1,2
+E2,2021,13/03/2021,15:00,Milton Keynes Dons,Accrington,3,2
+E2,2021,16/03/2021,18:30,AFC Wimbledon,Wigan,1,1
+E2,2021,16/03/2021,19:00,Blackpool,Burton,1,1
+E2,2021,16/03/2021,19:00,Charlton,Bristol Rvs,3,2
+E2,2021,16/03/2021,19:00,Lincoln,Gillingham,0,3
+E2,2021,16/03/2021,19:00,Milton Keynes Dons,Plymouth,2,1
+E2,2021,16/03/2021,19:00,Oxford,Doncaster,3,0
+E2,2021,16/03/2021,19:00,Peterboro,Portsmouth,1,0
+E2,2021,16/03/2021,19:45,Fleetwood Town,Ipswich,2,0
+E2,2021,17/03/2021,19:00,Accrington,Sunderland,0,2
+E2,2021,20/03/2021,13:00,Portsmouth,Ipswich,2,1
+E2,2021,20/03/2021,15:00,Accrington,Wigan,3,1
+E2,2021,20/03/2021,15:00,AFC Wimbledon,Charlton,2,2
+E2,2021,20/03/2021,15:00,Burton,Milton Keynes Dons,1,2
+E2,2021,20/03/2021,15:00,Fleetwood Town,Swindon,0,2
+E2,2021,20/03/2021,15:00,Gillingham,Doncaster,2,2
+E2,2021,20/03/2021,15:00,Northampton,Crewe,0,1
+E2,2021,20/03/2021,15:00,Oxford,Blackpool,0,2
+E2,2021,20/03/2021,15:00,Plymouth,Bristol Rvs,2,0
+E2,2021,20/03/2021,15:00,Rochdale,Peterboro,3,3
+E2,2021,20/03/2021,15:00,Shrewsbury,Hull,1,1
+E2,2021,20/03/2021,15:00,Sunderland,Lincoln,1,1
+E2,2021,23/03/2021,19:00,Blackpool,Peterboro,3,1
+E2,2021,23/03/2021,19:00,Bristol Rvs,Swindon,0,1
+E2,2021,23/03/2021,19:00,Burton,Shrewsbury,1,2
+E2,2021,23/03/2021,19:00,Northampton,Oxford,1,0
+E2,2021,26/03/2021,19:45,Oxford,Lincoln,2,1
+E2,2021,27/03/2021,15:00,AFC Wimbledon,Northampton,1,0
+E2,2021,27/03/2021,15:00,Blackpool,Plymouth,2,2
+E2,2021,27/03/2021,15:00,Bristol Rvs,Sunderland,0,1
+E2,2021,27/03/2021,15:00,Hull,Gillingham,1,1
+E2,2021,27/03/2021,15:00,Milton Keynes Dons,Doncaster,1,0
+E2,2021,27/03/2021,15:00,Peterboro,Accrington,7,0
+E2,2021,27/03/2021,15:00,Shrewsbury,Portsmouth,1,2
+E2,2021,27/03/2021,15:00,Wigan,Ipswich,0,0
+E2,2021,31/03/2021,17:30,Gillingham,Wigan,1,0
+E2,2021,02/04/2021,12:30,Doncaster,Charlton,0,1
+E2,2021,02/04/2021,15:00,Accrington,Burton,0,0
+E2,2021,02/04/2021,15:00,Crewe,Hull,1,2
+E2,2021,02/04/2021,15:00,Fleetwood Town,Peterboro,0,1
+E2,2021,02/04/2021,15:00,Ipswich,Bristol Rvs,2,1
+E2,2021,02/04/2021,15:00,Northampton,Shrewsbury,1,0
+E2,2021,02/04/2021,15:00,Plymouth,AFC Wimbledon,1,0
+E2,2021,02/04/2021,15:00,Portsmouth,Rochdale,2,1
+E2,2021,02/04/2021,15:00,Sunderland,Oxford,3,1
+E2,2021,02/04/2021,15:00,Swindon,Blackpool,0,2
+E2,2021,05/04/2021,15:00,AFC Wimbledon,Fleetwood Town,0,1
+E2,2021,05/04/2021,15:00,Blackpool,Gillingham,4,1
+E2,2021,05/04/2021,15:00,Bristol Rvs,Doncaster,2,1
+E2,2021,05/04/2021,15:00,Burton,Swindon,2,1
+E2,2021,05/04/2021,15:00,Hull,Northampton,3,0
+E2,2021,05/04/2021,15:00,Milton Keynes Dons,Crewe,0,2
+E2,2021,05/04/2021,15:00,Oxford,Accrington,1,2
+E2,2021,05/04/2021,15:00,Peterboro,Sunderland,1,1
+E2,2021,05/04/2021,15:00,Rochdale,Ipswich,0,0
+E2,2021,05/04/2021,15:00,Shrewsbury,Plymouth,3,0
+E2,2021,05/04/2021,15:00,Wigan,Portsmouth,0,1
+E2,2021,10/04/2021,15:00,Accrington,AFC Wimbledon,1,5
+E2,2021,10/04/2021,15:00,Crewe,Oxford,0,6
+E2,2021,10/04/2021,15:00,Doncaster,Wigan,1,4
+E2,2021,10/04/2021,15:00,Fleetwood Town,Rochdale,1,0
+E2,2021,10/04/2021,15:00,Gillingham,Shrewsbury,0,0
+E2,2021,10/04/2021,15:00,Ipswich,Milton Keynes Dons,0,0
+E2,2021,10/04/2021,15:00,Lincoln,Blackpool,2,2
+E2,2021,10/04/2021,15:00,Northampton,Bristol Rvs,1,1
+E2,2021,10/04/2021,15:00,Plymouth,Hull,0,3
+E2,2021,10/04/2021,15:00,Portsmouth,Burton,1,2
+E2,2021,10/04/2021,15:00,Sunderland,Charlton,1,2
+E2,2021,10/04/2021,15:00,Swindon,Peterboro,0,3
+E2,2021,13/04/2021,18:00,Crewe,Portsmouth,0,0
+E2,2021,13/04/2021,18:00,Wigan,Sunderland,2,1
+E2,2021,13/04/2021,18:30,AFC Wimbledon,Ipswich,3,0
+E2,2021,13/04/2021,19:00,Blackpool,Accrington,0,0
+E2,2021,13/04/2021,19:00,Doncaster,Burton,0,3
+E2,2021,13/04/2021,19:00,Lincoln,Milton Keynes Dons,4,0
+E2,2021,13/04/2021,19:00,Oxford,Shrewsbury,4,1
+E2,2021,13/04/2021,19:00,Rochdale,Swindon,2,1
+E2,2021,16/04/2021,19:45,Peterboro,Northampton,3,1
+E2,2021,17/04/2021,12:30,Blackpool,Sunderland,1,0
+E2,2021,17/04/2021,12:30,Bristol Rvs,Lincoln,0,1
+E2,2021,17/04/2021,12:30,Burton,Plymouth,1,1
+E2,2021,17/04/2021,12:30,Charlton,Ipswich,0,0
+E2,2021,17/04/2021,12:30,Hull,Fleetwood Town,2,1
+E2,2021,17/04/2021,12:30,Milton Keynes Dons,Portsmouth,1,0
+E2,2021,17/04/2021,12:30,Rochdale,Accrington,3,1
+E2,2021,17/04/2021,12:30,Shrewsbury,Doncaster,0,2
+E2,2021,17/04/2021,12:30,Wigan,Crewe,2,0
+E2,2021,17/04/2021,17:30,AFC Wimbledon,Swindon,4,1
+E2,2021,17/04/2021,17:30,Oxford,Gillingham,3,2
+E2,2021,20/04/2021,18:00,Swindon,Portsmouth,3,1
+E2,2021,20/04/2021,19:00,Accrington,Doncaster,2,1
+E2,2021,20/04/2021,19:00,AFC Wimbledon,Oxford,2,1
+E2,2021,20/04/2021,19:00,Bristol Rvs,Milton Keynes Dons,0,2
+E2,2021,20/04/2021,19:00,Burton,Lincoln,0,1
+E2,2021,20/04/2021,19:00,Northampton,Ipswich,3,0
+E2,2021,20/04/2021,19:00,Rochdale,Blackpool,1,0
+E2,2021,20/04/2021,19:00,Shrewsbury,Wigan,1,2
+E2,2021,20/04/2021,19:45,Fleetwood Town,Crewe,0,2
+E2,2021,20/04/2021,19:45,Hull,Sunderland,2,2
+E2,2021,20/04/2021,19:45,Peterboro,Gillingham,0,1
+E2,2021,20/04/2021,19:45,Plymouth,Charlton,0,6
+E2,2021,24/04/2021,13:00,Portsmouth,Bristol Rvs,1,0
+E2,2021,24/04/2021,15:00,Blackpool,Shrewsbury,0,1
+E2,2021,24/04/2021,15:00,Charlton,Peterboro,0,1
+E2,2021,24/04/2021,15:00,Crewe,Rochdale,1,1
+E2,2021,24/04/2021,15:00,Doncaster,Fleetwood Town,0,1
+E2,2021,24/04/2021,15:00,Gillingham,Northampton,2,2
+E2,2021,24/04/2021,15:00,Ipswich,AFC Wimbledon,0,0
+E2,2021,24/04/2021,15:00,Lincoln,Hull,1,2
+E2,2021,24/04/2021,15:00,Milton Keynes Dons,Swindon,5,0
+E2,2021,24/04/2021,15:00,Oxford,Plymouth,3,1
+E2,2021,24/04/2021,15:00,Sunderland,Accrington,3,3
+E2,2021,24/04/2021,15:00,Wigan,Burton,1,1
+E2,2021,27/04/2021,19:00,Accrington,Portsmouth,3,3
+E2,2021,27/04/2021,19:00,AFC Wimbledon,Rochdale,3,3
+E2,2021,27/04/2021,19:00,Burton,Fleetwood Town,5,2
+E2,2021,27/04/2021,19:00,Charlton,Crewe,2,2
+E2,2021,27/04/2021,19:00,Shrewsbury,Lincoln,0,1
+E2,2021,27/04/2021,19:00,Sunderland,Blackpool,0,1
+E2,2021,27/04/2021,19:45,Peterboro,Doncaster,2,2
+E2,2021,01/05/2021,15:00,Accrington,Charlton,1,1
+E2,2021,01/05/2021,15:00,AFC Wimbledon,Portsmouth,1,3
+E2,2021,01/05/2021,15:00,Bristol Rvs,Crewe,0,1
+E2,2021,01/05/2021,15:00,Burton,Gillingham,1,1
+E2,2021,01/05/2021,15:00,Fleetwood Town,Milton Keynes Dons,1,1
+E2,2021,01/05/2021,15:00,Hull,Wigan,3,1
+E2,2021,01/05/2021,15:00,Northampton,Blackpool,0,3
+E2,2021,01/05/2021,15:00,Peterboro,Lincoln,3,3
+E2,2021,01/05/2021,15:00,Plymouth,Sunderland,1,3
+E2,2021,01/05/2021,15:00,Rochdale,Doncaster,1,2
+E2,2021,01/05/2021,15:00,Shrewsbury,Oxford,2,3
+E2,2021,01/05/2021,15:00,Swindon,Ipswich,1,2
+E2,2021,04/05/2021,19:00,Blackpool,Doncaster,2,0
+E2,2021,04/05/2021,19:00,Charlton,Lincoln,3,1
+E2,2021,04/05/2021,19:00,Shrewsbury,Ipswich,0,0
+E2,2021,09/05/2021,12:00,Blackpool,Bristol Rvs,1,0
+E2,2021,09/05/2021,12:00,Charlton,Hull,1,0
+E2,2021,09/05/2021,12:00,Crewe,Shrewsbury,3,2
+E2,2021,09/05/2021,12:00,Doncaster,Peterboro,1,4
+E2,2021,09/05/2021,12:00,Gillingham,Plymouth,1,0
+E2,2021,09/05/2021,12:00,Ipswich,Fleetwood Town,3,1
+E2,2021,09/05/2021,12:00,Lincoln,AFC Wimbledon,0,0
+E2,2021,09/05/2021,12:00,Milton Keynes Dons,Rochdale,0,3
+E2,2021,09/05/2021,12:00,Oxford,Burton,4,0
+E2,2021,09/05/2021,12:00,Portsmouth,Accrington,0,1
+E2,2021,09/05/2021,12:00,Sunderland,Northampton,1,1
+E2,2021,09/05/2021,12:00,Wigan,Swindon,3,4

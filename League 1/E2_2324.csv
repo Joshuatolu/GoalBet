@@ -1,0 +1,553 @@
+Div,season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
+E2,2324,05/08/2023,15:00,Barnsley,Port Vale,7,0
+E2,2324,05/08/2023,15:00,Blackpool,Burton,2,0
+E2,2324,05/08/2023,15:00,Bolton,Lincoln,3,0
+E2,2324,05/08/2023,15:00,Cambridge,Oxford,2,0
+E2,2324,05/08/2023,15:00,Carlisle,Fleetwood Town,1,1
+E2,2324,05/08/2023,15:00,Charlton,Leyton Orient,1,0
+E2,2324,05/08/2023,15:00,Derby,Wigan,1,2
+E2,2324,05/08/2023,15:00,Northampton,Stevenage,0,1
+E2,2324,05/08/2023,15:00,Portsmouth,Bristol Rvs,1,1
+E2,2324,05/08/2023,15:00,Reading,Peterboro,0,1
+E2,2324,05/08/2023,15:00,Shrewsbury,Cheltenham,1,0
+E2,2324,05/08/2023,15:00,Wycombe,Exeter,0,3
+E2,2324,12/08/2023,15:00,Bristol Rvs,Barnsley,1,1
+E2,2324,12/08/2023,15:00,Burton,Derby,0,3
+E2,2324,12/08/2023,15:00,Cheltenham,Bolton,0,3
+E2,2324,12/08/2023,15:00,Exeter,Blackpool,0,0
+E2,2324,12/08/2023,15:00,Fleetwood Town,Cambridge,0,2
+E2,2324,12/08/2023,15:00,Leyton Orient,Portsmouth,0,4
+E2,2324,12/08/2023,15:00,Lincoln,Wycombe,3,0
+E2,2324,12/08/2023,15:00,Oxford,Carlisle,1,0
+E2,2324,12/08/2023,15:00,Peterboro,Charlton,1,0
+E2,2324,12/08/2023,15:00,Port Vale,Reading,1,0
+E2,2324,12/08/2023,15:00,Stevenage,Shrewsbury,2,0
+E2,2324,12/08/2023,15:00,Wigan,Northampton,2,1
+E2,2324,15/08/2023,19:45,Barnsley,Peterboro,1,3
+E2,2324,15/08/2023,19:45,Blackpool,Port Vale,0,0
+E2,2324,15/08/2023,19:45,Bolton,Fleetwood Town,3,1
+E2,2324,15/08/2023,19:45,Cambridge,Stevenage,1,2
+E2,2324,15/08/2023,19:45,Carlisle,Wigan,1,1
+E2,2324,15/08/2023,19:45,Charlton,Bristol Rvs,1,2
+E2,2324,15/08/2023,19:45,Derby,Oxford,1,2
+E2,2324,15/08/2023,19:45,Northampton,Lincoln,2,2
+E2,2324,15/08/2023,19:45,Shrewsbury,Burton,2,1
+E2,2324,15/08/2023,19:45,Wycombe,Leyton Orient,3,2
+E2,2324,15/08/2023,20:00,Portsmouth,Exeter,1,0
+E2,2324,15/08/2023,20:00,Reading,Cheltenham,1,0
+E2,2324,19/08/2023,12:30,Bolton,Wigan,0,4
+E2,2324,19/08/2023,15:00,Barnsley,Oxford,1,3
+E2,2324,19/08/2023,15:00,Blackpool,Leyton Orient,0,0
+E2,2324,19/08/2023,15:00,Cambridge,Bristol Rvs,2,0
+E2,2324,19/08/2023,15:00,Carlisle,Exeter,0,2
+E2,2324,19/08/2023,15:00,Charlton,Port Vale,2,3
+E2,2324,19/08/2023,15:00,Derby,Fleetwood Town,1,0
+E2,2324,19/08/2023,15:00,Northampton,Peterboro,1,0
+E2,2324,19/08/2023,15:00,Portsmouth,Cheltenham,0,0
+E2,2324,19/08/2023,15:00,Reading,Stevenage,2,0
+E2,2324,19/08/2023,15:00,Shrewsbury,Lincoln,0,1
+E2,2324,19/08/2023,15:00,Wycombe,Burton,0,0
+E2,2324,26/08/2023,15:00,Bristol Rvs,Wycombe,1,2
+E2,2324,26/08/2023,15:00,Burton,Bolton,1,1
+E2,2324,26/08/2023,15:00,Cheltenham,Northampton,0,1
+E2,2324,26/08/2023,15:00,Exeter,Reading,2,1
+E2,2324,26/08/2023,15:00,Fleetwood Town,Shrewsbury,0,1
+E2,2324,26/08/2023,15:00,Leyton Orient,Cambridge,2,0
+E2,2324,26/08/2023,15:00,Lincoln,Blackpool,3,0
+E2,2324,26/08/2023,15:00,Oxford,Charlton,2,1
+E2,2324,26/08/2023,15:00,Peterboro,Derby,2,4
+E2,2324,26/08/2023,15:00,Port Vale,Carlisle,1,0
+E2,2324,26/08/2023,15:00,Stevenage,Portsmouth,0,0
+E2,2324,26/08/2023,15:00,Wigan,Barnsley,0,2
+E2,2324,02/09/2023,15:00,Blackpool,Wigan,2,1
+E2,2324,02/09/2023,15:00,Bolton,Derby,2,1
+E2,2324,02/09/2023,15:00,Bristol Rvs,Lincoln,1,1
+E2,2324,02/09/2023,15:00,Burton,Exeter,0,1
+E2,2324,02/09/2023,15:00,Carlisle,Shrewsbury,2,0
+E2,2324,02/09/2023,15:00,Charlton,Fleetwood Town,2,1
+E2,2324,02/09/2023,15:00,Cheltenham,Barnsley,0,2
+E2,2324,02/09/2023,15:00,Leyton Orient,Stevenage,0,3
+E2,2324,02/09/2023,15:00,Northampton,Wycombe,0,1
+E2,2324,02/09/2023,15:00,Oxford,Port Vale,1,2
+E2,2324,02/09/2023,15:00,Portsmouth,Peterboro,3,1
+E2,2324,04/09/2023,20:00,Cambridge,Reading,1,0
+E2,2324,09/09/2023,15:00,Exeter,Leyton Orient,1,2
+E2,2324,09/09/2023,15:00,Stevenage,Carlisle,2,2
+E2,2324,16/09/2023,15:00,Barnsley,Burton,2,0
+E2,2324,16/09/2023,15:00,Derby,Portsmouth,1,1
+E2,2324,16/09/2023,15:00,Exeter,Cheltenham,1,0
+E2,2324,16/09/2023,15:00,Fleetwood Town,Oxford,0,3
+E2,2324,16/09/2023,15:00,Lincoln,Carlisle,1,1
+E2,2324,16/09/2023,15:00,Peterboro,Leyton Orient,1,1
+E2,2324,16/09/2023,15:00,Port Vale,Northampton,1,0
+E2,2324,16/09/2023,15:00,Reading,Bolton,2,1
+E2,2324,16/09/2023,15:00,Shrewsbury,Bristol Rvs,0,2
+E2,2324,16/09/2023,15:00,Stevenage,Charlton,1,1
+E2,2324,16/09/2023,15:00,Wigan,Cambridge,2,1
+E2,2324,16/09/2023,15:00,Wycombe,Blackpool,2,0
+E2,2324,19/09/2023,19:45,Barnsley,Portsmouth,2,3
+E2,2324,19/09/2023,19:45,Peterboro,Cheltenham,3,0
+E2,2324,19/09/2023,19:45,Port Vale,Burton,2,3
+E2,2324,23/09/2023,15:00,Blackpool,Reading,4,1
+E2,2324,23/09/2023,15:00,Bolton,Peterboro,1,1
+E2,2324,23/09/2023,15:00,Bristol Rvs,Wigan,4,1
+E2,2324,23/09/2023,15:00,Burton,Fleetwood Town,1,1
+E2,2324,23/09/2023,15:00,Cambridge,Port Vale,1,1
+E2,2324,23/09/2023,15:00,Carlisle,Derby,0,2
+E2,2324,23/09/2023,15:00,Charlton,Wycombe,3,1
+E2,2324,23/09/2023,15:00,Cheltenham,Stevenage,0,3
+E2,2324,23/09/2023,15:00,Leyton Orient,Shrewsbury,1,0
+E2,2324,23/09/2023,15:00,Northampton,Barnsley,1,2
+E2,2324,23/09/2023,15:00,Oxford,Exeter,3,0
+E2,2324,23/09/2023,15:00,Portsmouth,Lincoln,2,1
+E2,2324,30/09/2023,15:00,Barnsley,Blackpool,0,1
+E2,2324,30/09/2023,15:00,Derby,Cambridge,0,0
+E2,2324,30/09/2023,15:00,Exeter,Northampton,0,2
+E2,2324,30/09/2023,15:00,Fleetwood Town,Leyton Orient,1,0
+E2,2324,30/09/2023,15:00,Lincoln,Cheltenham,2,0
+E2,2324,30/09/2023,15:00,Peterboro,Bristol Rvs,2,0
+E2,2324,30/09/2023,15:00,Port Vale,Bolton,0,1
+E2,2324,30/09/2023,15:00,Reading,Burton,0,0
+E2,2324,30/09/2023,15:00,Shrewsbury,Charlton,0,0
+E2,2324,30/09/2023,15:00,Stevenage,Oxford,1,3
+E2,2324,30/09/2023,15:00,Wigan,Portsmouth,1,2
+E2,2324,30/09/2023,15:00,Wycombe,Carlisle,2,0
+E2,2324,03/10/2023,19:45,Blackpool,Derby,1,3
+E2,2324,03/10/2023,19:45,Bolton,Stevenage,3,2
+E2,2324,03/10/2023,19:45,Bristol Rvs,Port Vale,3,0
+E2,2324,03/10/2023,19:45,Burton,Wigan,2,1
+E2,2324,03/10/2023,19:45,Cambridge,Barnsley,0,4
+E2,2324,03/10/2023,19:45,Carlisle,Peterboro,1,1
+E2,2324,03/10/2023,19:45,Charlton,Exeter,4,1
+E2,2324,03/10/2023,19:45,Cheltenham,Fleetwood Town,0,2
+E2,2324,03/10/2023,19:45,Northampton,Reading,3,1
+E2,2324,03/10/2023,19:45,Oxford,Shrewsbury,3,0
+E2,2324,03/10/2023,19:45,Portsmouth,Wycombe,2,1
+E2,2324,07/10/2023,12:30,Oxford,Bristol Rvs,2,1
+E2,2324,07/10/2023,15:00,Bolton,Carlisle,1,3
+E2,2324,07/10/2023,15:00,Charlton,Blackpool,2,2
+E2,2324,07/10/2023,15:00,Cheltenham,Derby,1,1
+E2,2324,07/10/2023,15:00,Exeter,Barnsley,0,1
+E2,2324,07/10/2023,15:00,Fleetwood Town,Wycombe,1,4
+E2,2324,07/10/2023,15:00,Leyton Orient,Reading,2,1
+E2,2324,07/10/2023,15:00,Peterboro,Lincoln,2,0
+E2,2324,07/10/2023,15:00,Portsmouth,Port Vale,2,0
+E2,2324,07/10/2023,15:00,Shrewsbury,Northampton,1,0
+E2,2324,07/10/2023,15:00,Stevenage,Wigan,1,0
+E2,2324,09/10/2023,20:00,Burton,Cambridge,2,1
+E2,2324,14/10/2023,15:00,Blackpool,Stevenage,3,0
+E2,2324,14/10/2023,15:00,Cambridge,Shrewsbury,1,1
+E2,2324,14/10/2023,15:00,Carlisle,Leyton Orient,0,1
+E2,2324,14/10/2023,15:00,Lincoln,Burton,0,1
+E2,2324,21/10/2023,15:00,Bolton,Northampton,2,1
+E2,2324,21/10/2023,15:00,Burton,Bristol Rvs,4,1
+E2,2324,21/10/2023,15:00,Charlton,Reading,4,0
+E2,2324,21/10/2023,15:00,Cheltenham,Cambridge,1,0
+E2,2324,21/10/2023,15:00,Exeter,Wigan,0,2
+E2,2324,21/10/2023,15:00,Fleetwood Town,Lincoln,0,1
+E2,2324,21/10/2023,15:00,Leyton Orient,Barnsley,1,1
+E2,2324,21/10/2023,15:00,Oxford,Blackpool,1,1
+E2,2324,21/10/2023,15:00,Peterboro,Wycombe,2,2
+E2,2324,21/10/2023,15:00,Portsmouth,Carlisle,1,0
+E2,2324,21/10/2023,15:00,Shrewsbury,Derby,1,0
+E2,2324,21/10/2023,15:00,Stevenage,Port Vale,0,0
+E2,2324,24/10/2023,19:45,Barnsley,Shrewsbury,3,0
+E2,2324,24/10/2023,19:45,Blackpool,Cheltenham,3,2
+E2,2324,24/10/2023,19:45,Bristol Rvs,Stevenage,1,1
+E2,2324,24/10/2023,19:45,Cambridge,Portsmouth,0,0
+E2,2324,24/10/2023,19:45,Carlisle,Burton,2,1
+E2,2324,24/10/2023,19:45,Derby,Exeter,2,0
+E2,2324,24/10/2023,19:45,Lincoln,Charlton,3,1
+E2,2324,24/10/2023,19:45,Northampton,Leyton Orient,2,2
+E2,2324,24/10/2023,19:45,Port Vale,Peterboro,0,1
+E2,2324,24/10/2023,19:45,Wigan,Oxford,2,0
+E2,2324,24/10/2023,19:45,Wycombe,Bolton,2,4
+E2,2324,24/10/2023,20:00,Reading,Fleetwood Town,1,2
+E2,2324,28/10/2023,15:00,Barnsley,Fleetwood Town,2,2
+E2,2324,28/10/2023,15:00,Blackpool,Peterboro,2,4
+E2,2324,28/10/2023,15:00,Bristol Rvs,Northampton,2,1
+E2,2324,28/10/2023,15:00,Burton,Leyton Orient,0,0
+E2,2324,28/10/2023,15:00,Cambridge,Carlisle,1,0
+E2,2324,28/10/2023,15:00,Charlton,Bolton,0,2
+E2,2324,28/10/2023,15:00,Exeter,Lincoln,1,1
+E2,2324,28/10/2023,15:00,Oxford,Wycombe,2,2
+E2,2324,28/10/2023,15:00,Port Vale,Cheltenham,1,2
+E2,2324,28/10/2023,15:00,Reading,Portsmouth,2,3
+E2,2324,28/10/2023,15:00,Stevenage,Derby,3,1
+E2,2324,28/10/2023,15:00,Wigan,Shrewsbury,2,0
+E2,2324,31/10/2023,19:45,Derby,Northampton,4,0
+E2,2324,31/10/2023,19:45,Lincoln,Oxford,0,2
+E2,2324,31/10/2023,19:45,Wigan,Charlton,2,3
+E2,2324,31/10/2023,19:45,Wycombe,Cambridge,0,0
+E2,2324,01/11/2023,19:45,Fleetwood Town,Blackpool,3,3
+E2,2324,07/11/2023,19:45,Shrewsbury,Bolton,0,2
+E2,2324,07/11/2023,19:45,Wigan,Peterboro,2,1
+E2,2324,07/11/2023,20:00,Reading,Bristol Rvs,1,1
+E2,2324,11/11/2023,12:00,Peterboro,Cambridge,5,0
+E2,2324,11/11/2023,15:00,Bolton,Blackpool,1,0
+E2,2324,11/11/2023,15:00,Carlisle,Bristol Rvs,0,1
+E2,2324,11/11/2023,15:00,Cheltenham,Wigan,1,1
+E2,2324,11/11/2023,15:00,Derby,Barnsley,3,0
+E2,2324,11/11/2023,15:00,Fleetwood Town,Exeter,3,0
+E2,2324,11/11/2023,15:00,Leyton Orient,Oxford,2,3
+E2,2324,11/11/2023,15:00,Lincoln,Port Vale,1,1
+E2,2324,11/11/2023,15:00,Northampton,Burton,2,0
+E2,2324,11/11/2023,15:00,Portsmouth,Charlton,2,2
+E2,2324,11/11/2023,15:00,Shrewsbury,Reading,3,2
+E2,2324,11/11/2023,15:00,Wycombe,Stevenage,0,1
+E2,2324,18/11/2023,15:00,Blackpool,Shrewsbury,4,0
+E2,2324,18/11/2023,15:00,Stevenage,Lincoln,1,0
+E2,2324,21/11/2023,19:45,Leyton Orient,Lincoln,0,1
+E2,2324,25/11/2023,15:00,Bolton,Exeter,7,0
+E2,2324,25/11/2023,15:00,Carlisle,Charlton,1,1
+E2,2324,25/11/2023,15:00,Cheltenham,Oxford,2,0
+E2,2324,25/11/2023,15:00,Derby,Bristol Rvs,2,1
+E2,2324,25/11/2023,15:00,Fleetwood Town,Stevenage,0,3
+E2,2324,25/11/2023,15:00,Leyton Orient,Wigan,1,1
+E2,2324,25/11/2023,15:00,Lincoln,Barnsley,2,2
+E2,2324,25/11/2023,15:00,Northampton,Cambridge,2,1
+E2,2324,25/11/2023,15:00,Peterboro,Burton,4,0
+E2,2324,25/11/2023,15:00,Portsmouth,Blackpool,0,4
+E2,2324,25/11/2023,15:00,Shrewsbury,Port Vale,2,1
+E2,2324,25/11/2023,15:00,Wycombe,Reading,1,2
+E2,2324,28/11/2023,19:45,Barnsley,Wycombe,1,0
+E2,2324,28/11/2023,19:45,Blackpool,Northampton,1,2
+E2,2324,28/11/2023,19:45,Bristol Rvs,Leyton Orient,1,1
+E2,2324,28/11/2023,19:45,Burton,Portsmouth,0,2
+E2,2324,28/11/2023,19:45,Cambridge,Lincoln,0,3
+E2,2324,28/11/2023,19:45,Charlton,Cheltenham,2,1
+E2,2324,28/11/2023,19:45,Exeter,Shrewsbury,0,0
+E2,2324,28/11/2023,19:45,Oxford,Bolton,0,0
+E2,2324,28/11/2023,19:45,Port Vale,Derby,0,1
+E2,2324,28/11/2023,19:45,Stevenage,Peterboro,2,2
+E2,2324,28/11/2023,19:45,Wigan,Fleetwood Town,3,0
+E2,2324,28/11/2023,20:00,Reading,Carlisle,5,1
+E2,2324,02/12/2023,15:00,Northampton,Portsmouth,0,3
+E2,2324,09/12/2023,15:00,Blackpool,Carlisle,3,0
+E2,2324,09/12/2023,15:00,Bristol Rvs,Cheltenham,1,1
+E2,2324,09/12/2023,15:00,Burton,Stevenage,1,2
+E2,2324,09/12/2023,15:00,Charlton,Cambridge,2,2
+E2,2324,09/12/2023,15:00,Exeter,Port Vale,0,1
+E2,2324,09/12/2023,15:00,Leyton Orient,Derby,0,3
+E2,2324,09/12/2023,15:00,Northampton,Fleetwood Town,3,0
+E2,2324,09/12/2023,15:00,Peterboro,Oxford,3,0
+E2,2324,09/12/2023,15:00,Reading,Barnsley,1,3
+E2,2324,09/12/2023,15:00,Wigan,Lincoln,0,0
+E2,2324,09/12/2023,15:00,Wycombe,Shrewsbury,0,1
+E2,2324,11/12/2023,20:00,Portsmouth,Bolton,2,0
+E2,2324,12/12/2023,20:00,Reading,Oxford,1,1
+E2,2324,16/12/2023,15:00,Barnsley,Charlton,1,1
+E2,2324,16/12/2023,15:00,Bolton,Bristol Rvs,1,2
+E2,2324,16/12/2023,15:00,Cambridge,Blackpool,2,1
+E2,2324,16/12/2023,15:00,Carlisle,Northampton,2,2
+E2,2324,16/12/2023,15:00,Cheltenham,Leyton Orient,1,2
+E2,2324,16/12/2023,15:00,Derby,Wycombe,1,1
+E2,2324,16/12/2023,15:00,Fleetwood Town,Peterboro,0,1
+E2,2324,16/12/2023,15:00,Lincoln,Reading,1,1
+E2,2324,16/12/2023,15:00,Oxford,Burton,3,0
+E2,2324,16/12/2023,15:00,Port Vale,Wigan,3,2
+E2,2324,16/12/2023,15:00,Shrewsbury,Portsmouth,0,3
+E2,2324,16/12/2023,15:00,Stevenage,Exeter,1,1
+E2,2324,21/12/2023,19:45,Derby,Lincoln,3,1
+E2,2324,22/12/2023,19:45,Cambridge,Exeter,2,0
+E2,2324,23/12/2023,15:00,Barnsley,Stevenage,2,1
+E2,2324,23/12/2023,15:00,Blackpool,Bristol Rvs,3,1
+E2,2324,23/12/2023,15:00,Bolton,Leyton Orient,3,2
+E2,2324,23/12/2023,15:00,Carlisle,Cheltenham,0,1
+E2,2324,23/12/2023,15:00,Charlton,Burton,1,1
+E2,2324,23/12/2023,15:00,Northampton,Oxford,2,1
+E2,2324,23/12/2023,15:00,Portsmouth,Fleetwood Town,1,1
+E2,2324,23/12/2023,15:00,Reading,Wigan,2,0
+E2,2324,23/12/2023,15:00,Shrewsbury,Peterboro,1,2
+E2,2324,23/12/2023,15:00,Wycombe,Port Vale,1,1
+E2,2324,26/12/2023,13:00,Leyton Orient,Charlton,1,0
+E2,2324,26/12/2023,15:00,Bristol Rvs,Portsmouth,2,1
+E2,2324,26/12/2023,15:00,Burton,Blackpool,1,0
+E2,2324,26/12/2023,15:00,Cheltenham,Shrewsbury,2,0
+E2,2324,26/12/2023,15:00,Exeter,Wycombe,1,0
+E2,2324,26/12/2023,15:00,Fleetwood Town,Carlisle,1,1
+E2,2324,26/12/2023,15:00,Lincoln,Bolton,0,1
+E2,2324,26/12/2023,15:00,Oxford,Cambridge,2,1
+E2,2324,26/12/2023,15:00,Peterboro,Reading,2,2
+E2,2324,26/12/2023,15:00,Port Vale,Barnsley,2,3
+E2,2324,26/12/2023,15:00,Stevenage,Northampton,3,0
+E2,2324,26/12/2023,15:00,Wigan,Derby,0,1
+E2,2324,29/12/2023,19:00,Wigan,Carlisle,2,0
+E2,2324,29/12/2023,19:45,Bristol Rvs,Charlton,2,1
+E2,2324,29/12/2023,19:45,Burton,Shrewsbury,1,0
+E2,2324,29/12/2023,19:45,Cheltenham,Reading,2,2
+E2,2324,29/12/2023,19:45,Exeter,Portsmouth,0,0
+E2,2324,29/12/2023,19:45,Fleetwood Town,Bolton,0,2
+E2,2324,29/12/2023,19:45,Leyton Orient,Wycombe,0,0
+E2,2324,29/12/2023,19:45,Lincoln,Northampton,1,2
+E2,2324,29/12/2023,19:45,Oxford,Derby,2,3
+E2,2324,29/12/2023,19:45,Peterboro,Barnsley,2,2
+E2,2324,29/12/2023,19:45,Port Vale,Blackpool,3,0
+E2,2324,01/01/2024,15:00,Barnsley,Wigan,1,1
+E2,2324,01/01/2024,15:00,Blackpool,Lincoln,2,0
+E2,2324,01/01/2024,15:00,Bolton,Burton,1,0
+E2,2324,01/01/2024,15:00,Cambridge,Leyton Orient,0,2
+E2,2324,01/01/2024,15:00,Carlisle,Port Vale,2,1
+E2,2324,01/01/2024,15:00,Charlton,Oxford,1,2
+E2,2324,01/01/2024,15:00,Derby,Peterboro,2,3
+E2,2324,01/01/2024,15:00,Northampton,Cheltenham,1,0
+E2,2324,01/01/2024,15:00,Portsmouth,Stevenage,2,1
+E2,2324,01/01/2024,15:00,Reading,Exeter,3,2
+E2,2324,01/01/2024,15:00,Shrewsbury,Fleetwood Town,3,1
+E2,2324,01/01/2024,15:00,Wycombe,Bristol Rvs,3,2
+E2,2324,06/01/2024,12:30,Fleetwood Town,Derby,1,3
+E2,2324,06/01/2024,15:00,Burton,Wycombe,1,1
+E2,2324,06/01/2024,15:00,Cheltenham,Portsmouth,2,1
+E2,2324,06/01/2024,15:00,Exeter,Carlisle,2,1
+E2,2324,06/01/2024,15:00,Port Vale,Charlton,3,3
+E2,2324,13/01/2024,15:00,Barnsley,Bristol Rvs,2,1
+E2,2324,13/01/2024,15:00,Blackpool,Exeter,2,0
+E2,2324,13/01/2024,15:00,Cambridge,Fleetwood Town,2,1
+E2,2324,13/01/2024,15:00,Carlisle,Oxford,1,3
+E2,2324,13/01/2024,15:00,Charlton,Peterboro,1,2
+E2,2324,13/01/2024,15:00,Northampton,Wigan,1,1
+E2,2324,13/01/2024,15:00,Portsmouth,Leyton Orient,0,3
+E2,2324,13/01/2024,15:00,Shrewsbury,Stevenage,0,1
+E2,2324,13/01/2024,15:00,Wycombe,Lincoln,1,1
+E2,2324,15/01/2024,20:00,Derby,Burton,3,2
+E2,2324,16/01/2024,19:45,Barnsley,Carlisle,2,1
+E2,2324,20/01/2024,15:00,Bristol Rvs,Blackpool,1,2
+E2,2324,20/01/2024,15:00,Burton,Charlton,2,0
+E2,2324,20/01/2024,15:00,Exeter,Cambridge,0,0
+E2,2324,20/01/2024,15:00,Fleetwood Town,Portsmouth,0,1
+E2,2324,20/01/2024,15:00,Leyton Orient,Bolton,1,0
+E2,2324,20/01/2024,15:00,Lincoln,Derby,0,0
+E2,2324,20/01/2024,15:00,Peterboro,Shrewsbury,2,1
+E2,2324,20/01/2024,15:00,Wigan,Reading,1,0
+E2,2324,23/01/2024,19:45,Bolton,Cheltenham,1,0
+E2,2324,23/01/2024,19:45,Bristol Rvs,Exeter,0,1
+E2,2324,23/01/2024,19:45,Charlton,Northampton,2,3
+E2,2324,23/01/2024,19:45,Oxford,Barnsley,0,1
+E2,2324,23/01/2024,19:45,Wigan,Wycombe,1,0
+E2,2324,23/01/2024,20:00,Reading,Derby,1,0
+E2,2324,27/01/2024,15:00,Barnsley,Exeter,1,2
+E2,2324,27/01/2024,15:00,Blackpool,Charlton,1,1
+E2,2324,27/01/2024,15:00,Bristol Rvs,Oxford,3,1
+E2,2324,27/01/2024,15:00,Cambridge,Burton,0,0
+E2,2324,27/01/2024,15:00,Carlisle,Bolton,1,4
+E2,2324,27/01/2024,15:00,Derby,Cheltenham,2,1
+E2,2324,27/01/2024,15:00,Lincoln,Peterboro,0,0
+E2,2324,27/01/2024,15:00,Northampton,Shrewsbury,0,2
+E2,2324,27/01/2024,15:00,Port Vale,Portsmouth,0,1
+E2,2324,27/01/2024,15:00,Reading,Leyton Orient,1,1
+E2,2324,27/01/2024,15:00,Wigan,Stevenage,2,3
+E2,2324,27/01/2024,15:00,Wycombe,Fleetwood Town,2,2
+E2,2324,30/01/2024,19:45,Oxford,Portsmouth,2,2
+E2,2324,03/02/2024,12:30,Oxford,Reading,1,1
+E2,2324,03/02/2024,15:00,Bolton,Barnsley,1,1
+E2,2324,03/02/2024,15:00,Burton,Lincoln,0,1
+E2,2324,03/02/2024,15:00,Charlton,Derby,0,1
+E2,2324,03/02/2024,15:00,Cheltenham,Wycombe,1,3
+E2,2324,03/02/2024,15:00,Exeter,Bristol Rvs,0,1
+E2,2324,03/02/2024,15:00,Fleetwood Town,Port Vale,3,0
+E2,2324,03/02/2024,15:00,Leyton Orient,Carlisle,3,2
+E2,2324,03/02/2024,15:00,Peterboro,Wigan,2,3
+E2,2324,03/02/2024,15:00,Portsmouth,Northampton,4,1
+E2,2324,03/02/2024,15:00,Shrewsbury,Cambridge,1,2
+E2,2324,03/02/2024,15:00,Stevenage,Blackpool,1,0
+E2,2324,06/02/2024,19:45,Bristol Rvs,Fleetwood Town,0,2
+E2,2324,06/02/2024,19:45,Exeter,Peterboro,2,1
+E2,2324,06/02/2024,19:45,Port Vale,Leyton Orient,0,1
+E2,2324,06/02/2024,19:45,Stevenage,Reading,0,1
+E2,2324,10/02/2024,15:00,Barnsley,Leyton Orient,2,1
+E2,2324,10/02/2024,15:00,Blackpool,Oxford,1,1
+E2,2324,10/02/2024,15:00,Bristol Rvs,Burton,1,2
+E2,2324,10/02/2024,15:00,Cambridge,Cheltenham,0,1
+E2,2324,10/02/2024,15:00,Carlisle,Portsmouth,0,1
+E2,2324,10/02/2024,15:00,Derby,Shrewsbury,1,1
+E2,2324,10/02/2024,15:00,Lincoln,Fleetwood Town,2,1
+E2,2324,10/02/2024,15:00,Northampton,Bolton,1,1
+E2,2324,10/02/2024,15:00,Port Vale,Stevenage,2,2
+E2,2324,10/02/2024,15:00,Reading,Charlton,2,0
+E2,2324,10/02/2024,15:00,Wigan,Exeter,1,2
+E2,2324,10/02/2024,15:00,Wycombe,Peterboro,5,2
+E2,2324,13/02/2024,19:45,Bolton,Wycombe,2,1
+E2,2324,13/02/2024,19:45,Charlton,Lincoln,1,1
+E2,2324,13/02/2024,19:45,Cheltenham,Blackpool,2,0
+E2,2324,13/02/2024,19:45,Exeter,Derby,0,3
+E2,2324,13/02/2024,19:45,Fleetwood Town,Reading,1,1
+E2,2324,13/02/2024,19:45,Leyton Orient,Northampton,4,3
+E2,2324,13/02/2024,19:45,Oxford,Wigan,4,2
+E2,2324,13/02/2024,19:45,Portsmouth,Cambridge,3,1
+E2,2324,13/02/2024,19:45,Shrewsbury,Barnsley,1,1
+E2,2324,13/02/2024,19:45,Stevenage,Bristol Rvs,2,3
+E2,2324,17/02/2024,15:00,Bolton,Charlton,3,3
+E2,2324,17/02/2024,15:00,Carlisle,Cambridge,0,4
+E2,2324,17/02/2024,15:00,Cheltenham,Port Vale,3,2
+E2,2324,17/02/2024,15:00,Derby,Stevenage,1,0
+E2,2324,17/02/2024,15:00,Fleetwood Town,Barnsley,1,2
+E2,2324,17/02/2024,15:00,Leyton Orient,Burton,1,2
+E2,2324,17/02/2024,15:00,Lincoln,Exeter,1,0
+E2,2324,17/02/2024,15:00,Northampton,Bristol Rvs,3,1
+E2,2324,17/02/2024,15:00,Peterboro,Blackpool,1,2
+E2,2324,17/02/2024,15:00,Portsmouth,Reading,4,1
+E2,2324,17/02/2024,15:00,Shrewsbury,Wigan,0,1
+E2,2324,17/02/2024,15:00,Wycombe,Oxford,0,0
+E2,2324,20/02/2024,19:45,Cambridge,Bolton,1,2
+E2,2324,20/02/2024,19:45,Oxford,Northampton,2,2
+E2,2324,20/02/2024,20:00,Reading,Port Vale,2,0
+E2,2324,23/02/2024,19:45,Wigan,Cheltenham,1,1
+E2,2324,24/02/2024,12:00,Cambridge,Peterboro,0,1
+E2,2324,24/02/2024,15:00,Barnsley,Derby,2,1
+E2,2324,24/02/2024,15:00,Blackpool,Bolton,4,1
+E2,2324,24/02/2024,15:00,Bristol Rvs,Carlisle,2,1
+E2,2324,24/02/2024,15:00,Burton,Northampton,0,2
+E2,2324,24/02/2024,15:00,Charlton,Portsmouth,0,0
+E2,2324,24/02/2024,15:00,Exeter,Fleetwood Town,1,1
+E2,2324,24/02/2024,15:00,Oxford,Leyton Orient,1,2
+E2,2324,24/02/2024,15:00,Port Vale,Lincoln,0,2
+E2,2324,24/02/2024,15:00,Reading,Shrewsbury,2,3
+E2,2324,24/02/2024,15:00,Stevenage,Wycombe,1,0
+E2,2324,27/02/2024,19:45,Burton,Carlisle,0,1
+E2,2324,27/02/2024,19:45,Derby,Charlton,1,2
+E2,2324,27/02/2024,19:45,Leyton Orient,Blackpool,1,0
+E2,2324,27/02/2024,19:45,Lincoln,Shrewsbury,3,0
+E2,2324,27/02/2024,19:45,Port Vale,Fleetwood Town,2,2
+E2,2324,27/02/2024,19:45,Stevenage,Cambridge,1,0
+E2,2324,27/02/2024,19:45,Wigan,Bolton,1,0
+E2,2324,27/02/2024,19:45,Wycombe,Cheltenham,2,0
+E2,2324,02/03/2024,15:00,Bolton,Cambridge,2,0
+E2,2324,02/03/2024,15:00,Carlisle,Reading,1,3
+E2,2324,02/03/2024,15:00,Cheltenham,Burton,0,0
+E2,2324,02/03/2024,15:00,Derby,Port Vale,3,0
+E2,2324,02/03/2024,15:00,Fleetwood Town,Wigan,4,2
+E2,2324,02/03/2024,15:00,Leyton Orient,Bristol Rvs,0,1
+E2,2324,02/03/2024,15:00,Lincoln,Stevenage,0,0
+E2,2324,02/03/2024,15:00,Northampton,Charlton,1,1
+E2,2324,02/03/2024,15:00,Peterboro,Exeter,2,1
+E2,2324,02/03/2024,15:00,Portsmouth,Oxford,2,1
+E2,2324,02/03/2024,15:00,Shrewsbury,Blackpool,0,2
+E2,2324,02/03/2024,15:00,Wycombe,Barnsley,2,4
+E2,2324,05/03/2024,19:45,Barnsley,Bolton,2,2
+E2,2324,05/03/2024,19:45,Cheltenham,Charlton,1,3
+E2,2324,05/03/2024,19:45,Peterboro,Northampton,5,1
+E2,2324,09/03/2024,15:00,Barnsley,Lincoln,1,5
+E2,2324,09/03/2024,15:00,Blackpool,Portsmouth,0,0
+E2,2324,09/03/2024,15:00,Bristol Rvs,Derby,0,3
+E2,2324,09/03/2024,15:00,Burton,Peterboro,1,3
+E2,2324,09/03/2024,15:00,Cambridge,Northampton,1,1
+E2,2324,09/03/2024,15:00,Charlton,Carlisle,3,2
+E2,2324,09/03/2024,15:00,Exeter,Bolton,2,2
+E2,2324,09/03/2024,15:00,Oxford,Cheltenham,2,1
+E2,2324,09/03/2024,15:00,Port Vale,Shrewsbury,1,2
+E2,2324,09/03/2024,15:00,Reading,Wycombe,1,2
+E2,2324,09/03/2024,15:00,Stevenage,Fleetwood Town,0,0
+E2,2324,09/03/2024,15:00,Wigan,Leyton Orient,1,0
+E2,2324,12/03/2024,19:45,Carlisle,Barnsley,2,3
+E2,2324,12/03/2024,19:45,Derby,Reading,2,1
+E2,2324,12/03/2024,19:45,Fleetwood Town,Bristol Rvs,0,0
+E2,2324,12/03/2024,19:45,Leyton Orient,Port Vale,0,0
+E2,2324,12/03/2024,19:45,Lincoln,Cambridge,6,0
+E2,2324,12/03/2024,19:45,Northampton,Blackpool,0,1
+E2,2324,12/03/2024,19:45,Portsmouth,Burton,2,1
+E2,2324,12/03/2024,19:45,Shrewsbury,Exeter,0,3
+E2,2324,12/03/2024,19:45,Wycombe,Wigan,1,0
+E2,2324,12/03/2024,20:00,Bolton,Oxford,5,0
+E2,2324,13/03/2024,20:00,Peterboro,Stevenage,3,1
+E2,2324,16/03/2024,15:00,Barnsley,Cheltenham,0,0
+E2,2324,16/03/2024,15:00,Derby,Bolton,1,0
+E2,2324,16/03/2024,15:00,Exeter,Burton,1,0
+E2,2324,16/03/2024,15:00,Fleetwood Town,Charlton,1,1
+E2,2324,16/03/2024,15:00,Lincoln,Bristol Rvs,5,0
+E2,2324,16/03/2024,15:00,Peterboro,Portsmouth,0,1
+E2,2324,16/03/2024,15:00,Port Vale,Oxford,0,2
+E2,2324,16/03/2024,15:00,Reading,Cambridge,4,0
+E2,2324,16/03/2024,15:00,Shrewsbury,Carlisle,1,0
+E2,2324,16/03/2024,15:00,Stevenage,Leyton Orient,0,1
+E2,2324,16/03/2024,15:00,Wigan,Blackpool,1,0
+E2,2324,16/03/2024,15:00,Wycombe,Northampton,2,0
+E2,2324,23/03/2024,15:00,Burton,Port Vale,0,1
+E2,2324,23/03/2024,15:00,Carlisle,Stevenage,2,2
+E2,2324,23/03/2024,15:00,Northampton,Derby,1,0
+E2,2324,29/03/2024,15:00,Barnsley,Cambridge,0,2
+E2,2324,29/03/2024,15:00,Derby,Blackpool,1,0
+E2,2324,29/03/2024,15:00,Exeter,Charlton,1,1
+E2,2324,29/03/2024,15:00,Fleetwood Town,Cheltenham,1,2
+E2,2324,29/03/2024,15:00,Lincoln,Leyton Orient,1,0
+E2,2324,29/03/2024,15:00,Peterboro,Carlisle,1,3
+E2,2324,29/03/2024,15:00,Port Vale,Bristol Rvs,2,0
+E2,2324,29/03/2024,15:00,Reading,Northampton,1,0
+E2,2324,29/03/2024,15:00,Shrewsbury,Oxford,1,1
+E2,2324,29/03/2024,15:00,Stevenage,Bolton,0,0
+E2,2324,29/03/2024,15:00,Wigan,Burton,1,1
+E2,2324,29/03/2024,15:00,Wycombe,Portsmouth,1,3
+E2,2324,01/04/2024,15:00,Blackpool,Wycombe,0,0
+E2,2324,01/04/2024,15:00,Bolton,Reading,5,2
+E2,2324,01/04/2024,15:00,Bristol Rvs,Shrewsbury,0,0
+E2,2324,01/04/2024,15:00,Burton,Barnsley,1,3
+E2,2324,01/04/2024,15:00,Cambridge,Wigan,3,1
+E2,2324,01/04/2024,15:00,Carlisle,Lincoln,1,3
+E2,2324,01/04/2024,15:00,Charlton,Stevenage,0,0
+E2,2324,01/04/2024,15:00,Cheltenham,Exeter,1,2
+E2,2324,01/04/2024,15:00,Leyton Orient,Peterboro,1,2
+E2,2324,01/04/2024,15:00,Northampton,Port Vale,2,0
+E2,2324,01/04/2024,15:00,Oxford,Fleetwood Town,4,0
+E2,2324,02/04/2024,20:00,Portsmouth,Derby,2,2
+E2,2324,06/04/2024,15:00,Blackpool,Cambridge,1,0
+E2,2324,06/04/2024,15:00,Bristol Rvs,Bolton,0,2
+E2,2324,06/04/2024,15:00,Burton,Oxford,0,4
+E2,2324,06/04/2024,15:00,Charlton,Barnsley,2,1
+E2,2324,06/04/2024,15:00,Exeter,Stevenage,1,0
+E2,2324,06/04/2024,15:00,Leyton Orient,Cheltenham,3,1
+E2,2324,06/04/2024,15:00,Northampton,Carlisle,2,0
+E2,2324,06/04/2024,15:00,Portsmouth,Shrewsbury,3,1
+E2,2324,06/04/2024,15:00,Reading,Lincoln,1,1
+E2,2324,06/04/2024,15:00,Wigan,Port Vale,0,0
+E2,2324,09/04/2024,19:45,Blackpool,Fleetwood Town,1,0
+E2,2324,09/04/2024,19:45,Bristol Rvs,Reading,0,2
+E2,2324,09/04/2024,19:45,Charlton,Wigan,2,2
+E2,2324,09/04/2024,19:45,Cheltenham,Carlisle,0,1
+E2,2324,09/04/2024,19:45,Leyton Orient,Exeter,2,2
+E2,2324,09/04/2024,19:45,Stevenage,Barnsley,2,1
+E2,2324,10/04/2024,19:45,Peterboro,Port Vale,3,0
+E2,2324,10/04/2024,19:45,Wycombe,Derby,0,0
+E2,2324,13/04/2024,15:00,Barnsley,Reading,2,2
+E2,2324,13/04/2024,15:00,Bolton,Portsmouth,1,1
+E2,2324,13/04/2024,15:00,Cambridge,Charlton,1,1
+E2,2324,13/04/2024,15:00,Carlisle,Blackpool,0,1
+E2,2324,13/04/2024,15:00,Cheltenham,Bristol Rvs,1,3
+E2,2324,13/04/2024,15:00,Derby,Leyton Orient,3,0
+E2,2324,13/04/2024,15:00,Fleetwood Town,Northampton,2,0
+E2,2324,13/04/2024,15:00,Lincoln,Wigan,1,2
+E2,2324,13/04/2024,15:00,Oxford,Peterboro,5,0
+E2,2324,13/04/2024,15:00,Port Vale,Exeter,2,4
+E2,2324,13/04/2024,15:00,Shrewsbury,Wycombe,0,2
+E2,2324,13/04/2024,15:00,Stevenage,Burton,1,2
+E2,2324,16/04/2024,19:45,Bolton,Shrewsbury,2,2
+E2,2324,16/04/2024,19:45,Bristol Rvs,Cambridge,1,0
+E2,2324,16/04/2024,19:45,Burton,Cheltenham,1,2
+E2,2324,16/04/2024,19:45,Oxford,Lincoln,0,1
+E2,2324,16/04/2024,19:45,Peterboro,Fleetwood Town,4,1
+E2,2324,16/04/2024,19:45,Port Vale,Wycombe,1,2
+E2,2324,16/04/2024,19:45,Portsmouth,Barnsley,3,2
+E2,2324,19/04/2024,20:00,Oxford,Stevenage,1,1
+E2,2324,20/04/2024,14:00,Northampton,Exeter,1,2
+E2,2324,20/04/2024,15:00,Blackpool,Barnsley,3,2
+E2,2324,20/04/2024,15:00,Bolton,Port Vale,2,0
+E2,2324,20/04/2024,15:00,Bristol Rvs,Peterboro,0,2
+E2,2324,20/04/2024,15:00,Burton,Reading,3,2
+E2,2324,20/04/2024,15:00,Cambridge,Derby,0,1
+E2,2324,20/04/2024,15:00,Carlisle,Wycombe,1,3
+E2,2324,20/04/2024,15:00,Charlton,Shrewsbury,1,1
+E2,2324,20/04/2024,15:00,Cheltenham,Lincoln,1,2
+E2,2324,20/04/2024,15:00,Leyton Orient,Fleetwood Town,0,1
+E2,2324,20/04/2024,15:00,Portsmouth,Wigan,1,2
+E2,2324,23/04/2024,19:45,Cambridge,Wycombe,1,1
+E2,2324,23/04/2024,19:45,Cheltenham,Peterboro,2,0
+E2,2324,27/04/2024,12:30,Barnsley,Northampton,1,1
+E2,2324,27/04/2024,12:30,Derby,Carlisle,2,0
+E2,2324,27/04/2024,12:30,Exeter,Oxford,1,2
+E2,2324,27/04/2024,12:30,Fleetwood Town,Burton,3,0
+E2,2324,27/04/2024,12:30,Lincoln,Portsmouth,0,2
+E2,2324,27/04/2024,12:30,Peterboro,Bolton,3,3
+E2,2324,27/04/2024,12:30,Port Vale,Cambridge,0,0
+E2,2324,27/04/2024,12:30,Reading,Blackpool,3,2
+E2,2324,27/04/2024,12:30,Shrewsbury,Leyton Orient,1,3
+E2,2324,27/04/2024,12:30,Stevenage,Cheltenham,2,1
+E2,2324,27/04/2024,12:30,Wigan,Bristol Rvs,2,0
+E2,2324,27/04/2024,12:30,Wycombe,Charlton,1,0

@@ -1,0 +1,381 @@
+Div,season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
+E0,2324,11/08/2023,20:00,Burnley,Man City,0,3
+E0,2324,12/08/2023,12:30,Arsenal,Nott'm Forest,2,1
+E0,2324,12/08/2023,15:00,Bournemouth,West Ham,1,1
+E0,2324,12/08/2023,15:00,Brighton,Luton,4,1
+E0,2324,12/08/2023,15:00,Everton,Fulham,0,1
+E0,2324,12/08/2023,15:00,Sheffield United,Crystal Palace,0,1
+E0,2324,12/08/2023,17:30,Newcastle,Aston Villa,5,1
+E0,2324,13/08/2023,14:00,Brentford,Tottenham,2,2
+E0,2324,13/08/2023,16:30,Chelsea,Liverpool,1,1
+E0,2324,14/08/2023,20:00,Man United,Wolves,1,0
+E0,2324,18/08/2023,19:45,Nott'm Forest,Sheffield United,2,1
+E0,2324,19/08/2023,15:00,Fulham,Brentford,0,3
+E0,2324,19/08/2023,15:00,Liverpool,Bournemouth,3,1
+E0,2324,19/08/2023,15:00,Wolves,Brighton,1,4
+E0,2324,19/08/2023,17:30,Tottenham,Man United,2,0
+E0,2324,19/08/2023,20:00,Man City,Newcastle,1,0
+E0,2324,20/08/2023,14:00,Aston Villa,Everton,4,0
+E0,2324,20/08/2023,16:30,West Ham,Chelsea,3,1
+E0,2324,21/08/2023,20:00,Crystal Palace,Arsenal,0,1
+E0,2324,25/08/2023,20:00,Chelsea,Luton,3,0
+E0,2324,26/08/2023,12:30,Bournemouth,Tottenham,0,2
+E0,2324,26/08/2023,15:00,Arsenal,Fulham,2,2
+E0,2324,26/08/2023,15:00,Brentford,Crystal Palace,1,1
+E0,2324,26/08/2023,15:00,Everton,Wolves,0,1
+E0,2324,26/08/2023,15:00,Man United,Nott'm Forest,3,2
+E0,2324,26/08/2023,17:30,Brighton,West Ham,1,3
+E0,2324,27/08/2023,14:00,Burnley,Aston Villa,1,3
+E0,2324,27/08/2023,14:00,Sheffield United,Man City,1,2
+E0,2324,27/08/2023,16:30,Newcastle,Liverpool,1,2
+E0,2324,01/09/2023,20:00,Luton,West Ham,1,2
+E0,2324,02/09/2023,12:30,Sheffield United,Everton,2,2
+E0,2324,02/09/2023,15:00,Brentford,Bournemouth,2,2
+E0,2324,02/09/2023,15:00,Burnley,Tottenham,2,5
+E0,2324,02/09/2023,15:00,Chelsea,Nott'm Forest,0,1
+E0,2324,02/09/2023,15:00,Man City,Fulham,5,1
+E0,2324,02/09/2023,17:30,Brighton,Newcastle,3,1
+E0,2324,03/09/2023,14:00,Crystal Palace,Wolves,3,2
+E0,2324,03/09/2023,14:00,Liverpool,Aston Villa,3,0
+E0,2324,03/09/2023,16:30,Arsenal,Man United,3,1
+E0,2324,16/09/2023,12:30,Wolves,Liverpool,1,3
+E0,2324,16/09/2023,15:00,Aston Villa,Crystal Palace,3,1
+E0,2324,16/09/2023,15:00,Fulham,Luton,1,0
+E0,2324,16/09/2023,15:00,Man United,Brighton,1,3
+E0,2324,16/09/2023,15:00,Tottenham,Sheffield United,2,1
+E0,2324,16/09/2023,15:00,West Ham,Man City,1,3
+E0,2324,16/09/2023,17:30,Newcastle,Brentford,1,0
+E0,2324,17/09/2023,14:00,Bournemouth,Chelsea,0,0
+E0,2324,17/09/2023,16:30,Everton,Arsenal,0,1
+E0,2324,18/09/2023,19:45,Nott'm Forest,Burnley,1,1
+E0,2324,23/09/2023,15:00,Crystal Palace,Fulham,0,0
+E0,2324,23/09/2023,15:00,Luton,Wolves,1,1
+E0,2324,23/09/2023,15:00,Man City,Nott'm Forest,2,0
+E0,2324,23/09/2023,17:30,Brentford,Everton,1,3
+E0,2324,23/09/2023,20:00,Burnley,Man United,0,1
+E0,2324,24/09/2023,14:00,Arsenal,Tottenham,2,2
+E0,2324,24/09/2023,14:00,Brighton,Bournemouth,3,1
+E0,2324,24/09/2023,14:00,Chelsea,Aston Villa,0,1
+E0,2324,24/09/2023,14:00,Liverpool,West Ham,3,1
+E0,2324,24/09/2023,16:30,Sheffield United,Newcastle,0,8
+E0,2324,30/09/2023,12:30,Aston Villa,Brighton,6,1
+E0,2324,30/09/2023,15:00,Bournemouth,Arsenal,0,4
+E0,2324,30/09/2023,15:00,Everton,Luton,1,2
+E0,2324,30/09/2023,15:00,Man United,Crystal Palace,0,1
+E0,2324,30/09/2023,15:00,Newcastle,Burnley,2,0
+E0,2324,30/09/2023,15:00,West Ham,Sheffield United,2,0
+E0,2324,30/09/2023,15:00,Wolves,Man City,2,1
+E0,2324,30/09/2023,17:30,Tottenham,Liverpool,2,1
+E0,2324,01/10/2023,14:00,Nott'm Forest,Brentford,1,1
+E0,2324,02/10/2023,20:00,Fulham,Chelsea,0,2
+E0,2324,03/10/2023,19:30,Luton,Burnley,1,2
+E0,2324,07/10/2023,12:30,Luton,Tottenham,0,1
+E0,2324,07/10/2023,15:00,Burnley,Chelsea,1,4
+E0,2324,07/10/2023,15:00,Everton,Bournemouth,3,0
+E0,2324,07/10/2023,15:00,Fulham,Sheffield United,3,1
+E0,2324,07/10/2023,15:00,Man United,Brentford,2,1
+E0,2324,07/10/2023,17:30,Crystal Palace,Nott'm Forest,0,0
+E0,2324,08/10/2023,14:00,Brighton,Liverpool,2,2
+E0,2324,08/10/2023,14:00,West Ham,Newcastle,2,2
+E0,2324,08/10/2023,14:00,Wolves,Aston Villa,1,1
+E0,2324,08/10/2023,16:30,Arsenal,Man City,1,0
+E0,2324,21/10/2023,12:30,Liverpool,Everton,2,0
+E0,2324,21/10/2023,15:00,Bournemouth,Wolves,1,2
+E0,2324,21/10/2023,15:00,Brentford,Burnley,3,0
+E0,2324,21/10/2023,15:00,Man City,Brighton,2,1
+E0,2324,21/10/2023,15:00,Newcastle,Crystal Palace,4,0
+E0,2324,21/10/2023,15:00,Nott'm Forest,Luton,2,2
+E0,2324,21/10/2023,17:30,Chelsea,Arsenal,2,2
+E0,2324,21/10/2023,20:00,Sheffield United,Man United,1,2
+E0,2324,22/10/2023,16:30,Aston Villa,West Ham,4,1
+E0,2324,23/10/2023,20:00,Tottenham,Fulham,2,0
+E0,2324,27/10/2023,20:00,Crystal Palace,Tottenham,1,2
+E0,2324,28/10/2023,12:30,Chelsea,Brentford,0,2
+E0,2324,28/10/2023,15:00,Arsenal,Sheffield United,5,0
+E0,2324,28/10/2023,15:00,Bournemouth,Burnley,2,1
+E0,2324,28/10/2023,17:30,Wolves,Newcastle,2,2
+E0,2324,29/10/2023,13:00,West Ham,Everton,0,1
+E0,2324,29/10/2023,14:00,Aston Villa,Luton,3,1
+E0,2324,29/10/2023,14:00,Brighton,Fulham,1,1
+E0,2324,29/10/2023,14:00,Liverpool,Nott'm Forest,3,0
+E0,2324,29/10/2023,15:30,Man United,Man City,0,3
+E0,2324,04/11/2023,12:30,Fulham,Man United,0,1
+E0,2324,04/11/2023,15:00,Brentford,West Ham,3,2
+E0,2324,04/11/2023,15:00,Burnley,Crystal Palace,0,2
+E0,2324,04/11/2023,15:00,Everton,Brighton,1,1
+E0,2324,04/11/2023,15:00,Man City,Bournemouth,6,1
+E0,2324,04/11/2023,15:00,Sheffield United,Wolves,2,1
+E0,2324,04/11/2023,17:30,Newcastle,Arsenal,1,0
+E0,2324,05/11/2023,14:00,Nott'm Forest,Aston Villa,2,0
+E0,2324,05/11/2023,16:30,Luton,Liverpool,1,1
+E0,2324,06/11/2023,20:00,Tottenham,Chelsea,1,4
+E0,2324,11/11/2023,12:30,Wolves,Tottenham,2,1
+E0,2324,11/11/2023,15:00,Arsenal,Burnley,3,1
+E0,2324,11/11/2023,15:00,Crystal Palace,Everton,2,3
+E0,2324,11/11/2023,15:00,Man United,Luton,1,0
+E0,2324,11/11/2023,17:30,Bournemouth,Newcastle,2,0
+E0,2324,12/11/2023,14:00,Aston Villa,Fulham,3,1
+E0,2324,12/11/2023,14:00,Brighton,Sheffield United,1,1
+E0,2324,12/11/2023,14:00,Liverpool,Brentford,3,0
+E0,2324,12/11/2023,14:00,West Ham,Nott'm Forest,3,2
+E0,2324,12/11/2023,16:30,Chelsea,Man City,4,4
+E0,2324,25/11/2023,12:30,Man City,Liverpool,1,1
+E0,2324,25/11/2023,15:00,Burnley,West Ham,1,2
+E0,2324,25/11/2023,15:00,Luton,Crystal Palace,2,1
+E0,2324,25/11/2023,15:00,Newcastle,Chelsea,4,1
+E0,2324,25/11/2023,15:00,Nott'm Forest,Brighton,2,3
+E0,2324,25/11/2023,15:00,Sheffield United,Bournemouth,1,3
+E0,2324,25/11/2023,17:30,Brentford,Arsenal,0,1
+E0,2324,26/11/2023,14:00,Tottenham,Aston Villa,1,2
+E0,2324,26/11/2023,16:30,Everton,Man United,0,3
+E0,2324,27/11/2023,20:00,Fulham,Wolves,3,2
+E0,2324,02/12/2023,15:00,Arsenal,Wolves,2,1
+E0,2324,02/12/2023,15:00,Brentford,Luton,3,1
+E0,2324,02/12/2023,15:00,Burnley,Sheffield United,5,0
+E0,2324,02/12/2023,17:30,Nott'm Forest,Everton,0,1
+E0,2324,02/12/2023,20:00,Newcastle,Man United,1,0
+E0,2324,03/12/2023,14:00,Bournemouth,Aston Villa,2,2
+E0,2324,03/12/2023,14:00,Chelsea,Brighton,3,2
+E0,2324,03/12/2023,14:00,Liverpool,Fulham,4,3
+E0,2324,03/12/2023,14:00,West Ham,Crystal Palace,1,1
+E0,2324,03/12/2023,16:30,Man City,Tottenham,3,3
+E0,2324,05/12/2023,19:30,Wolves,Burnley,1,0
+E0,2324,05/12/2023,20:15,Luton,Arsenal,3,4
+E0,2324,06/12/2023,19:30,Brighton,Brentford,2,1
+E0,2324,06/12/2023,19:30,Crystal Palace,Bournemouth,0,2
+E0,2324,06/12/2023,19:30,Fulham,Nott'm Forest,5,0
+E0,2324,06/12/2023,19:30,Sheffield United,Liverpool,0,2
+E0,2324,06/12/2023,20:15,Aston Villa,Man City,1,0
+E0,2324,06/12/2023,20:15,Man United,Chelsea,2,1
+E0,2324,07/12/2023,19:30,Everton,Newcastle,3,0
+E0,2324,07/12/2023,20:15,Tottenham,West Ham,1,2
+E0,2324,09/12/2023,12:30,Crystal Palace,Liverpool,1,2
+E0,2324,09/12/2023,15:00,Brighton,Burnley,1,1
+E0,2324,09/12/2023,15:00,Man United,Bournemouth,0,3
+E0,2324,09/12/2023,15:00,Sheffield United,Brentford,1,0
+E0,2324,09/12/2023,15:00,Wolves,Nott'm Forest,1,1
+E0,2324,09/12/2023,17:30,Aston Villa,Arsenal,1,0
+E0,2324,10/12/2023,14:00,Everton,Chelsea,2,0
+E0,2324,10/12/2023,14:00,Fulham,West Ham,5,0
+E0,2324,10/12/2023,14:00,Luton,Man City,1,2
+E0,2324,10/12/2023,16:30,Tottenham,Newcastle,4,1
+E0,2324,15/12/2023,20:00,Nott'm Forest,Tottenham,0,2
+E0,2324,16/12/2023,15:00,Chelsea,Sheffield United,2,0
+E0,2324,16/12/2023,15:00,Man City,Crystal Palace,2,2
+E0,2324,16/12/2023,15:00,Newcastle,Fulham,3,0
+E0,2324,16/12/2023,17:30,Burnley,Everton,0,2
+E0,2324,17/12/2023,14:00,Arsenal,Brighton,2,0
+E0,2324,17/12/2023,14:00,Brentford,Aston Villa,1,2
+E0,2324,17/12/2023,14:00,West Ham,Wolves,3,0
+E0,2324,17/12/2023,16:30,Liverpool,Man United,0,0
+E0,2324,21/12/2023,20:00,Crystal Palace,Brighton,1,1
+E0,2324,22/12/2023,20:00,Aston Villa,Sheffield United,1,1
+E0,2324,23/12/2023,12:30,West Ham,Man United,2,0
+E0,2324,23/12/2023,15:00,Fulham,Burnley,0,2
+E0,2324,23/12/2023,15:00,Luton,Newcastle,1,0
+E0,2324,23/12/2023,15:00,Nott'm Forest,Bournemouth,2,3
+E0,2324,23/12/2023,15:00,Tottenham,Everton,2,1
+E0,2324,23/12/2023,17:30,Liverpool,Arsenal,1,1
+E0,2324,24/12/2023,13:00,Wolves,Chelsea,2,1
+E0,2324,26/12/2023,12:30,Newcastle,Nott'm Forest,1,3
+E0,2324,26/12/2023,15:00,Bournemouth,Fulham,3,0
+E0,2324,26/12/2023,15:00,Sheffield United,Luton,2,3
+E0,2324,26/12/2023,17:30,Burnley,Liverpool,0,2
+E0,2324,26/12/2023,20:00,Man United,Aston Villa,3,2
+E0,2324,27/12/2023,19:30,Brentford,Wolves,1,4
+E0,2324,27/12/2023,19:30,Chelsea,Crystal Palace,2,1
+E0,2324,27/12/2023,20:15,Everton,Man City,1,3
+E0,2324,28/12/2023,19:30,Brighton,Tottenham,4,2
+E0,2324,28/12/2023,20:15,Arsenal,West Ham,0,2
+E0,2324,30/12/2023,12:30,Luton,Chelsea,2,3
+E0,2324,30/12/2023,15:00,Aston Villa,Burnley,3,2
+E0,2324,30/12/2023,15:00,Crystal Palace,Brentford,3,1
+E0,2324,30/12/2023,15:00,Man City,Sheffield United,2,0
+E0,2324,30/12/2023,15:00,Wolves,Everton,3,0
+E0,2324,30/12/2023,17:30,Nott'm Forest,Man United,2,1
+E0,2324,31/12/2023,14:00,Fulham,Arsenal,2,1
+E0,2324,31/12/2023,14:00,Tottenham,Bournemouth,3,1
+E0,2324,01/01/2024,20:00,Liverpool,Newcastle,4,2
+E0,2324,02/01/2024,19:30,West Ham,Brighton,0,0
+E0,2324,12/01/2024,19:45,Burnley,Luton,1,1
+E0,2324,13/01/2024,12:30,Chelsea,Fulham,1,0
+E0,2324,13/01/2024,17:30,Newcastle,Man City,2,3
+E0,2324,14/01/2024,14:00,Everton,Aston Villa,0,0
+E0,2324,14/01/2024,16:30,Man United,Tottenham,2,2
+E0,2324,20/01/2024,12:30,Arsenal,Crystal Palace,5,0
+E0,2324,20/01/2024,17:30,Brentford,Nott'm Forest,3,2
+E0,2324,21/01/2024,14:00,Sheffield United,West Ham,2,2
+E0,2324,21/01/2024,16:30,Bournemouth,Liverpool,0,4
+E0,2324,22/01/2024,19:45,Brighton,Wolves,0,0
+E0,2324,30/01/2024,19:30,Nott'm Forest,Arsenal,1,2
+E0,2324,30/01/2024,19:45,Fulham,Everton,0,0
+E0,2324,30/01/2024,19:45,Luton,Brighton,4,0
+E0,2324,30/01/2024,20:00,Crystal Palace,Sheffield United,3,2
+E0,2324,30/01/2024,20:15,Aston Villa,Newcastle,1,3
+E0,2324,31/01/2024,19:30,Man City,Burnley,3,1
+E0,2324,31/01/2024,19:30,Tottenham,Brentford,3,2
+E0,2324,31/01/2024,20:15,Liverpool,Chelsea,4,1
+E0,2324,01/02/2024,19:30,West Ham,Bournemouth,1,1
+E0,2324,01/02/2024,20:15,Wolves,Man United,3,4
+E0,2324,03/02/2024,12:30,Everton,Tottenham,2,2
+E0,2324,03/02/2024,15:00,Brighton,Crystal Palace,4,1
+E0,2324,03/02/2024,15:00,Burnley,Fulham,2,2
+E0,2324,03/02/2024,15:00,Newcastle,Luton,4,4
+E0,2324,03/02/2024,17:30,Sheffield United,Aston Villa,0,5
+E0,2324,04/02/2024,14:00,Bournemouth,Nott'm Forest,1,1
+E0,2324,04/02/2024,14:00,Chelsea,Wolves,2,4
+E0,2324,04/02/2024,14:00,Man United,West Ham,3,0
+E0,2324,04/02/2024,16:30,Arsenal,Liverpool,3,1
+E0,2324,05/02/2024,20:00,Brentford,Man City,1,3
+E0,2324,10/02/2024,12:30,Man City,Everton,2,0
+E0,2324,10/02/2024,15:00,Fulham,Bournemouth,3,1
+E0,2324,10/02/2024,15:00,Liverpool,Burnley,3,1
+E0,2324,10/02/2024,15:00,Luton,Sheffield United,1,3
+E0,2324,10/02/2024,15:00,Tottenham,Brighton,2,1
+E0,2324,10/02/2024,15:00,Wolves,Brentford,0,2
+E0,2324,10/02/2024,17:30,Nott'm Forest,Newcastle,2,3
+E0,2324,11/02/2024,14:00,West Ham,Arsenal,0,6
+E0,2324,11/02/2024,16:30,Aston Villa,Man United,1,2
+E0,2324,12/02/2024,20:00,Crystal Palace,Chelsea,1,3
+E0,2324,17/02/2024,12:30,Brentford,Liverpool,1,4
+E0,2324,17/02/2024,15:00,Burnley,Arsenal,0,5
+E0,2324,17/02/2024,15:00,Fulham,Aston Villa,1,2
+E0,2324,17/02/2024,15:00,Newcastle,Bournemouth,2,2
+E0,2324,17/02/2024,15:00,Nott'm Forest,West Ham,2,0
+E0,2324,17/02/2024,15:00,Tottenham,Wolves,1,2
+E0,2324,17/02/2024,17:30,Man City,Chelsea,1,1
+E0,2324,18/02/2024,14:00,Sheffield United,Brighton,0,5
+E0,2324,18/02/2024,16:30,Luton,Man United,1,2
+E0,2324,19/02/2024,20:00,Everton,Crystal Palace,1,1
+E0,2324,20/02/2024,19:30,Man City,Brentford,1,0
+E0,2324,21/02/2024,19:30,Liverpool,Luton,4,1
+E0,2324,24/02/2024,15:00,Aston Villa,Nott'm Forest,4,2
+E0,2324,24/02/2024,15:00,Brighton,Everton,1,1
+E0,2324,24/02/2024,15:00,Crystal Palace,Burnley,3,0
+E0,2324,24/02/2024,15:00,Man United,Fulham,1,2
+E0,2324,24/02/2024,17:30,Bournemouth,Man City,0,1
+E0,2324,24/02/2024,20:00,Arsenal,Newcastle,4,1
+E0,2324,25/02/2024,13:30,Wolves,Sheffield United,1,0
+E0,2324,26/02/2024,20:00,West Ham,Brentford,4,2
+E0,2324,02/03/2024,15:00,Brentford,Chelsea,2,2
+E0,2324,02/03/2024,15:00,Everton,West Ham,1,3
+E0,2324,02/03/2024,15:00,Fulham,Brighton,3,0
+E0,2324,02/03/2024,15:00,Newcastle,Wolves,3,0
+E0,2324,02/03/2024,15:00,Nott'm Forest,Liverpool,0,1
+E0,2324,02/03/2024,15:00,Tottenham,Crystal Palace,3,1
+E0,2324,02/03/2024,17:30,Luton,Aston Villa,2,3
+E0,2324,03/03/2024,13:00,Burnley,Bournemouth,0,2
+E0,2324,03/03/2024,15:30,Man City,Man United,3,1
+E0,2324,04/03/2024,20:00,Sheffield United,Arsenal,0,6
+E0,2324,09/03/2024,12:30,Man United,Everton,2,0
+E0,2324,09/03/2024,15:00,Bournemouth,Sheffield United,2,2
+E0,2324,09/03/2024,15:00,Crystal Palace,Luton,1,1
+E0,2324,09/03/2024,15:00,Wolves,Fulham,2,1
+E0,2324,09/03/2024,17:30,Arsenal,Brentford,2,1
+E0,2324,10/03/2024,13:00,Aston Villa,Tottenham,0,4
+E0,2324,10/03/2024,14:00,Brighton,Nott'm Forest,1,0
+E0,2324,10/03/2024,14:00,West Ham,Burnley,2,2
+E0,2324,10/03/2024,15:45,Liverpool,Man City,1,1
+E0,2324,11/03/2024,20:00,Chelsea,Newcastle,3,2
+E0,2324,13/03/2024,19:30,Bournemouth,Luton,4,3
+E0,2324,16/03/2024,15:00,Burnley,Brentford,2,1
+E0,2324,16/03/2024,15:00,Luton,Nott'm Forest,1,1
+E0,2324,16/03/2024,17:30,Fulham,Tottenham,3,0
+E0,2324,17/03/2024,14:00,West Ham,Aston Villa,1,1
+E0,2324,30/03/2024,12:30,Newcastle,West Ham,4,3
+E0,2324,30/03/2024,15:00,Bournemouth,Everton,2,1
+E0,2324,30/03/2024,15:00,Chelsea,Burnley,2,2
+E0,2324,30/03/2024,15:00,Nott'm Forest,Crystal Palace,1,1
+E0,2324,30/03/2024,15:00,Sheffield United,Fulham,3,3
+E0,2324,30/03/2024,15:00,Tottenham,Luton,2,1
+E0,2324,30/03/2024,17:30,Aston Villa,Wolves,2,0
+E0,2324,30/03/2024,20:00,Brentford,Man United,1,1
+E0,2324,31/03/2024,14:00,Liverpool,Brighton,2,1
+E0,2324,31/03/2024,16:30,Man City,Arsenal,0,0
+E0,2324,02/04/2024,19:30,Newcastle,Everton,1,1
+E0,2324,02/04/2024,19:30,Nott'm Forest,Fulham,3,1
+E0,2324,02/04/2024,19:45,Bournemouth,Crystal Palace,1,0
+E0,2324,02/04/2024,19:45,Burnley,Wolves,1,1
+E0,2324,02/04/2024,20:15,West Ham,Tottenham,1,1
+E0,2324,03/04/2024,19:30,Arsenal,Luton,2,0
+E0,2324,03/04/2024,19:30,Brentford,Brighton,0,0
+E0,2324,03/04/2024,20:15,Man City,Aston Villa,4,1
+E0,2324,04/04/2024,19:30,Liverpool,Sheffield United,3,1
+E0,2324,04/04/2024,20:15,Chelsea,Man United,4,3
+E0,2324,06/04/2024,12:30,Crystal Palace,Man City,2,4
+E0,2324,06/04/2024,15:00,Aston Villa,Brentford,3,3
+E0,2324,06/04/2024,15:00,Everton,Burnley,1,0
+E0,2324,06/04/2024,15:00,Fulham,Newcastle,0,1
+E0,2324,06/04/2024,15:00,Luton,Bournemouth,2,1
+E0,2324,06/04/2024,15:00,Wolves,West Ham,1,2
+E0,2324,06/04/2024,17:30,Brighton,Arsenal,0,3
+E0,2324,07/04/2024,15:30,Man United,Liverpool,2,2
+E0,2324,07/04/2024,17:30,Sheffield United,Chelsea,2,2
+E0,2324,07/04/2024,18:00,Tottenham,Nott'm Forest,3,1
+E0,2324,13/04/2024,12:30,Newcastle,Tottenham,4,0
+E0,2324,13/04/2024,15:00,Brentford,Sheffield United,2,0
+E0,2324,13/04/2024,15:00,Burnley,Brighton,1,1
+E0,2324,13/04/2024,15:00,Man City,Luton,5,1
+E0,2324,13/04/2024,15:00,Nott'm Forest,Wolves,2,2
+E0,2324,13/04/2024,17:30,Bournemouth,Man United,2,2
+E0,2324,14/04/2024,14:00,Liverpool,Crystal Palace,0,1
+E0,2324,14/04/2024,14:00,West Ham,Fulham,0,2
+E0,2324,14/04/2024,16:30,Arsenal,Aston Villa,0,2
+E0,2324,15/04/2024,20:00,Chelsea,Everton,6,0
+E0,2324,20/04/2024,15:00,Luton,Brentford,1,5
+E0,2324,20/04/2024,15:00,Sheffield United,Burnley,1,4
+E0,2324,20/04/2024,19:30,Wolves,Arsenal,0,2
+E0,2324,21/04/2024,13:30,Everton,Nott'm Forest,2,0
+E0,2324,21/04/2024,15:00,Aston Villa,Bournemouth,3,1
+E0,2324,21/04/2024,15:00,Crystal Palace,West Ham,5,2
+E0,2324,21/04/2024,16:30,Fulham,Liverpool,1,3
+E0,2324,23/04/2024,20:00,Arsenal,Chelsea,5,0
+E0,2324,24/04/2024,19:45,Wolves,Bournemouth,0,1
+E0,2324,24/04/2024,20:00,Crystal Palace,Newcastle,2,0
+E0,2324,24/04/2024,20:00,Everton,Liverpool,2,0
+E0,2324,24/04/2024,20:00,Man United,Sheffield United,4,2
+E0,2324,25/04/2024,20:00,Brighton,Man City,0,4
+E0,2324,27/04/2024,12:30,West Ham,Liverpool,2,2
+E0,2324,27/04/2024,15:00,Fulham,Crystal Palace,1,1
+E0,2324,27/04/2024,15:00,Man United,Burnley,1,1
+E0,2324,27/04/2024,15:00,Newcastle,Sheffield United,5,1
+E0,2324,27/04/2024,15:00,Wolves,Luton,2,1
+E0,2324,27/04/2024,17:30,Everton,Brentford,1,0
+E0,2324,27/04/2024,20:00,Aston Villa,Chelsea,2,2
+E0,2324,28/04/2024,14:00,Bournemouth,Brighton,3,0
+E0,2324,28/04/2024,14:00,Tottenham,Arsenal,2,3
+E0,2324,28/04/2024,16:30,Nott'm Forest,Man City,0,2
+E0,2324,02/05/2024,19:30,Chelsea,Tottenham,2,0
+E0,2324,03/05/2024,20:00,Luton,Everton,1,1
+E0,2324,04/05/2024,12:30,Arsenal,Bournemouth,3,0
+E0,2324,04/05/2024,15:00,Brentford,Fulham,0,0
+E0,2324,04/05/2024,15:00,Burnley,Newcastle,1,4
+E0,2324,04/05/2024,15:00,Sheffield United,Nott'm Forest,1,3
+E0,2324,04/05/2024,17:30,Man City,Wolves,5,1
+E0,2324,05/05/2024,14:00,Brighton,Aston Villa,1,0
+E0,2324,05/05/2024,14:00,Chelsea,West Ham,5,0
+E0,2324,05/05/2024,16:30,Liverpool,Tottenham,4,2
+E0,2324,06/05/2024,20:00,Crystal Palace,Man United,4,0
+E0,2324,11/05/2024,12:30,Fulham,Man City,0,4
+E0,2324,11/05/2024,15:00,Bournemouth,Brentford,1,2
+E0,2324,11/05/2024,15:00,Everton,Sheffield United,1,0
+E0,2324,11/05/2024,15:00,Newcastle,Brighton,1,1
+E0,2324,11/05/2024,15:00,Tottenham,Burnley,2,1
+E0,2324,11/05/2024,15:00,West Ham,Luton,3,1
+E0,2324,11/05/2024,15:00,Wolves,Crystal Palace,1,3
+E0,2324,11/05/2024,17:30,Nott'm Forest,Chelsea,2,3
+E0,2324,12/05/2024,16:30,Man United,Arsenal,0,1
+E0,2324,13/05/2024,20:00,Aston Villa,Liverpool,3,3
+E0,2324,14/05/2024,20:00,Tottenham,Man City,0,2
+E0,2324,15/05/2024,19:45,Brighton,Chelsea,1,2
+E0,2324,15/05/2024,20:00,Man United,Newcastle,3,2
+E0,2324,19/05/2024,16:00,Arsenal,Everton,2,1
+E0,2324,19/05/2024,16:00,Brentford,Newcastle,2,4
+E0,2324,19/05/2024,16:00,Brighton,Man United,0,2
+E0,2324,19/05/2024,16:00,Burnley,Nott'm Forest,1,2
+E0,2324,19/05/2024,16:00,Chelsea,Bournemouth,2,1
+E0,2324,19/05/2024,16:00,Crystal Palace,Aston Villa,5,0
+E0,2324,19/05/2024,16:00,Liverpool,Wolves,2,0
+E0,2324,19/05/2024,16:00,Luton,Fulham,2,4
+E0,2324,19/05/2024,16:00,Man City,West Ham,3,1
+E0,2324,19/05/2024,16:00,Sheffield United,Tottenham,0,3

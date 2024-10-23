@@ -1,0 +1,553 @@
+Div,season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
+E2,2223,30/07/2022,15:00,Accrington,Charlton,2,2
+E2,2223,30/07/2022,15:00,Bristol Rvs,Forest Green,1,2
+E2,2223,30/07/2022,15:00,Cambridge,Milton Keynes Dons,1,0
+E2,2223,30/07/2022,15:00,Cheltenham,Peterboro,2,3
+E2,2223,30/07/2022,15:00,Derby,Oxford,1,0
+E2,2223,30/07/2022,15:00,Ipswich,Bolton,1,1
+E2,2223,30/07/2022,15:00,Lincoln,Exeter,1,1
+E2,2223,30/07/2022,15:00,Morecambe,Shrewsbury,0,0
+E2,2223,30/07/2022,15:00,Plymouth,Barnsley,1,0
+E2,2223,30/07/2022,15:00,Port Vale,Fleetwood Town,2,1
+E2,2223,30/07/2022,15:00,Sheffield Weds,Portsmouth,3,3
+E2,2223,30/07/2022,15:00,Wycombe,Burton,3,0
+E2,2223,06/08/2022,15:00,Barnsley,Cheltenham,1,0
+E2,2223,06/08/2022,15:00,Bolton,Wycombe,3,0
+E2,2223,06/08/2022,15:00,Burton,Bristol Rvs,0,4
+E2,2223,06/08/2022,15:00,Charlton,Derby,1,0
+E2,2223,06/08/2022,15:00,Exeter,Port Vale,4,0
+E2,2223,06/08/2022,15:00,Fleetwood Town,Plymouth,2,1
+E2,2223,06/08/2022,15:00,Forest Green,Ipswich,1,2
+E2,2223,06/08/2022,15:00,Milton Keynes Dons,Sheffield Weds,0,1
+E2,2223,06/08/2022,15:00,Oxford,Cambridge,1,0
+E2,2223,06/08/2022,15:00,Peterboro,Morecambe,3,0
+E2,2223,06/08/2022,15:00,Portsmouth,Lincoln,0,0
+E2,2223,06/08/2022,15:00,Shrewsbury,Accrington,0,1
+E2,2223,13/08/2022,12:30,Bristol Rvs,Oxford,1,0
+E2,2223,13/08/2022,15:00,Accrington,Burton,4,4
+E2,2223,13/08/2022,15:00,Cambridge,Exeter,2,1
+E2,2223,13/08/2022,15:00,Cheltenham,Portsmouth,0,2
+E2,2223,13/08/2022,15:00,Derby,Barnsley,2,1
+E2,2223,13/08/2022,15:00,Ipswich,Milton Keynes Dons,3,0
+E2,2223,13/08/2022,15:00,Lincoln,Forest Green,1,1
+E2,2223,13/08/2022,15:00,Morecambe,Fleetwood Town,1,1
+E2,2223,13/08/2022,15:00,Plymouth,Peterboro,2,0
+E2,2223,13/08/2022,15:00,Port Vale,Bolton,0,0
+E2,2223,13/08/2022,15:00,Sheffield Weds,Charlton,1,0
+E2,2223,13/08/2022,15:00,Wycombe,Shrewsbury,1,2
+E2,2223,16/08/2022,19:45,Barnsley,Bristol Rvs,3,0
+E2,2223,16/08/2022,19:45,Bolton,Morecambe,1,0
+E2,2223,16/08/2022,19:45,Burton,Ipswich,0,1
+E2,2223,16/08/2022,19:45,Charlton,Plymouth,5,1
+E2,2223,16/08/2022,19:45,Exeter,Wycombe,3,1
+E2,2223,16/08/2022,19:45,Fleetwood Town,Cheltenham,0,0
+E2,2223,16/08/2022,19:45,Milton Keynes Dons,Port Vale,2,1
+E2,2223,16/08/2022,19:45,Oxford,Lincoln,1,2
+E2,2223,16/08/2022,19:45,Peterboro,Sheffield Weds,2,0
+E2,2223,16/08/2022,19:45,Portsmouth,Cambridge,4,1
+E2,2223,16/08/2022,19:45,Shrewsbury,Derby,0,0
+E2,2223,20/08/2022,15:00,Barnsley,Wycombe,0,3
+E2,2223,20/08/2022,15:00,Bolton,Sheffield Weds,0,2
+E2,2223,20/08/2022,15:00,Burton,Port Vale,0,2
+E2,2223,20/08/2022,15:00,Charlton,Cambridge,1,1
+E2,2223,20/08/2022,15:00,Exeter,Cheltenham,0,1
+E2,2223,20/08/2022,15:00,Fleetwood Town,Derby,0,0
+E2,2223,20/08/2022,15:00,Forest Green,Plymouth,0,3
+E2,2223,20/08/2022,15:00,Milton Keynes Dons,Accrington,1,1
+E2,2223,20/08/2022,15:00,Oxford,Morecambe,1,1
+E2,2223,20/08/2022,15:00,Peterboro,Lincoln,4,0
+E2,2223,20/08/2022,15:00,Portsmouth,Bristol Rvs,3,1
+E2,2223,20/08/2022,15:00,Shrewsbury,Ipswich,0,3
+E2,2223,27/08/2022,15:00,Accrington,Exeter,0,0
+E2,2223,27/08/2022,15:00,Bristol Rvs,Shrewsbury,1,1
+E2,2223,27/08/2022,15:00,Cambridge,Burton,4,3
+E2,2223,27/08/2022,15:00,Cheltenham,Oxford,1,2
+E2,2223,27/08/2022,15:00,Derby,Peterboro,2,1
+E2,2223,27/08/2022,15:00,Ipswich,Barnsley,2,2
+E2,2223,27/08/2022,15:00,Lincoln,Fleetwood Town,2,2
+E2,2223,27/08/2022,15:00,Morecambe,Milton Keynes Dons,0,4
+E2,2223,27/08/2022,15:00,Plymouth,Bolton,2,0
+E2,2223,27/08/2022,15:00,Port Vale,Portsmouth,0,1
+E2,2223,27/08/2022,15:00,Sheffield Weds,Forest Green,5,0
+E2,2223,27/08/2022,15:00,Wycombe,Charlton,1,1
+E2,2223,03/09/2022,15:00,Accrington,Ipswich,0,2
+E2,2223,03/09/2022,15:00,Bolton,Charlton,3,1
+E2,2223,03/09/2022,15:00,Bristol Rvs,Morecambe,2,2
+E2,2223,03/09/2022,15:00,Cambridge,Lincoln,2,0
+E2,2223,03/09/2022,15:00,Derby,Plymouth,2,3
+E2,2223,03/09/2022,15:00,Exeter,Milton Keynes Dons,1,0
+E2,2223,03/09/2022,15:00,Fleetwood Town,Wycombe,1,1
+E2,2223,03/09/2022,15:00,Forest Green,Shrewsbury,0,2
+E2,2223,03/09/2022,15:00,Oxford,Burton,2,1
+E2,2223,03/09/2022,15:00,Port Vale,Cheltenham,2,2
+E2,2223,03/09/2022,15:00,Portsmouth,Peterboro,2,1
+E2,2223,03/09/2022,15:00,Sheffield Weds,Barnsley,0,2
+E2,2223,06/09/2022,19:45,Forest Green,Accrington,2,1
+E2,2223,13/09/2022,19:45,Barnsley,Port Vale,1,1
+E2,2223,13/09/2022,19:45,Burton,Portsmouth,0,2
+E2,2223,13/09/2022,19:45,Charlton,Forest Green,1,1
+E2,2223,13/09/2022,19:45,Cheltenham,Cambridge,2,1
+E2,2223,13/09/2022,19:45,Ipswich,Bristol Rvs,2,0
+E2,2223,13/09/2022,19:45,Lincoln,Derby,2,0
+E2,2223,13/09/2022,19:45,Milton Keynes Dons,Bolton,0,2
+E2,2223,13/09/2022,19:45,Morecambe,Sheffield Weds,0,3
+E2,2223,13/09/2022,19:45,Peterboro,Fleetwood Town,0,1
+E2,2223,13/09/2022,19:45,Plymouth,Oxford,1,0
+E2,2223,13/09/2022,19:45,Shrewsbury,Exeter,3,2
+E2,2223,13/09/2022,19:45,Wycombe,Accrington,1,0
+E2,2223,17/09/2022,15:00,Accrington,Cheltenham,1,0
+E2,2223,17/09/2022,15:00,Bolton,Peterboro,1,0
+E2,2223,17/09/2022,15:00,Bristol Rvs,Lincoln,3,6
+E2,2223,17/09/2022,15:00,Cambridge,Barnsley,0,3
+E2,2223,17/09/2022,15:00,Derby,Wycombe,2,1
+E2,2223,17/09/2022,15:00,Exeter,Burton,0,2
+E2,2223,17/09/2022,15:00,Fleetwood Town,Charlton,1,1
+E2,2223,17/09/2022,15:00,Forest Green,Morecambe,1,2
+E2,2223,17/09/2022,15:00,Oxford,Milton Keynes Dons,1,2
+E2,2223,17/09/2022,15:00,Port Vale,Shrewsbury,2,1
+E2,2223,17/09/2022,15:00,Portsmouth,Plymouth,2,2
+E2,2223,17/09/2022,15:00,Sheffield Weds,Ipswich,2,2
+E2,2223,24/09/2022,12:30,Forest Green,Exeter,0,4
+E2,2223,24/09/2022,15:00,Barnsley,Charlton,3,1
+E2,2223,24/09/2022,15:00,Bristol Rvs,Accrington,0,1
+E2,2223,24/09/2022,15:00,Morecambe,Cambridge,1,2
+E2,2223,24/09/2022,15:00,Peterboro,Port Vale,3,0
+E2,2223,24/09/2022,15:00,Sheffield Weds,Wycombe,3,1
+E2,2223,24/09/2022,15:00,Shrewsbury,Burton,2,1
+E2,2223,25/09/2022,12:30,Plymouth,Ipswich,2,1
+E2,2223,01/10/2022,15:00,Accrington,Morecambe,3,1
+E2,2223,01/10/2022,15:00,Bolton,Lincoln,2,0
+E2,2223,01/10/2022,15:00,Burton,Forest Green,3,2
+E2,2223,01/10/2022,15:00,Cambridge,Derby,0,2
+E2,2223,01/10/2022,15:00,Charlton,Oxford,1,1
+E2,2223,01/10/2022,15:00,Cheltenham,Shrewsbury,2,0
+E2,2223,01/10/2022,15:00,Exeter,Bristol Rvs,2,2
+E2,2223,01/10/2022,15:00,Fleetwood Town,Barnsley,0,1
+E2,2223,01/10/2022,15:00,Ipswich,Portsmouth,3,2
+E2,2223,01/10/2022,15:00,Milton Keynes Dons,Peterboro,2,3
+E2,2223,01/10/2022,15:00,Port Vale,Sheffield Weds,0,1
+E2,2223,01/10/2022,15:00,Wycombe,Plymouth,0,1
+E2,2223,04/10/2022,19:45,Burton,Fleetwood Town,0,1
+E2,2223,04/10/2022,19:45,Cheltenham,Bolton,1,0
+E2,2223,04/10/2022,19:45,Ipswich,Cambridge,3,0
+E2,2223,04/10/2022,19:45,Plymouth,Sheffield Weds,2,1
+E2,2223,08/10/2022,15:00,Barnsley,Exeter,0,2
+E2,2223,08/10/2022,15:00,Bristol Rvs,Cambridge,2,1
+E2,2223,08/10/2022,15:00,Derby,Port Vale,1,2
+E2,2223,08/10/2022,15:00,Forest Green,Bolton,1,0
+E2,2223,08/10/2022,15:00,Lincoln,Charlton,0,0
+E2,2223,08/10/2022,15:00,Morecambe,Ipswich,1,2
+E2,2223,08/10/2022,15:00,Oxford,Wycombe,0,1
+E2,2223,08/10/2022,15:00,Peterboro,Burton,1,1
+E2,2223,08/10/2022,15:00,Plymouth,Accrington,3,0
+E2,2223,08/10/2022,15:00,Portsmouth,Fleetwood Town,1,1
+E2,2223,08/10/2022,15:00,Sheffield Weds,Cheltenham,3,0
+E2,2223,08/10/2022,15:00,Shrewsbury,Milton Keynes Dons,2,1
+E2,2223,11/10/2022,19:45,Charlton,Exeter,4,2
+E2,2223,11/10/2022,19:45,Milton Keynes Dons,Bristol Rvs,0,1
+E2,2223,11/10/2022,19:45,Peterboro,Forest Green,4,1
+E2,2223,15/10/2022,15:00,Accrington,Derby,0,3
+E2,2223,15/10/2022,15:00,Bolton,Barnsley,0,0
+E2,2223,15/10/2022,15:00,Burton,Morecambe,1,1
+E2,2223,15/10/2022,15:00,Cambridge,Sheffield Weds,0,2
+E2,2223,15/10/2022,15:00,Cheltenham,Bristol Rvs,1,4
+E2,2223,15/10/2022,15:00,Exeter,Oxford,2,4
+E2,2223,15/10/2022,15:00,Fleetwood Town,Shrewsbury,0,1
+E2,2223,15/10/2022,15:00,Ipswich,Lincoln,0,1
+E2,2223,15/10/2022,15:00,Milton Keynes Dons,Plymouth,1,4
+E2,2223,15/10/2022,15:00,Port Vale,Forest Green,2,2
+E2,2223,15/10/2022,15:00,Wycombe,Peterboro,3,1
+E2,2223,17/10/2022,20:00,Charlton,Portsmouth,3,0
+E2,2223,21/10/2022,20:00,Ipswich,Derby,1,0
+E2,2223,22/10/2022,13:00,Lincoln,Sheffield Weds,1,1
+E2,2223,22/10/2022,15:00,Accrington,Bolton,2,3
+E2,2223,22/10/2022,15:00,Bristol Rvs,Plymouth,2,2
+E2,2223,22/10/2022,15:00,Burton,Cheltenham,1,0
+E2,2223,22/10/2022,15:00,Cambridge,Port Vale,0,1
+E2,2223,22/10/2022,15:00,Exeter,Fleetwood Town,2,1
+E2,2223,22/10/2022,15:00,Forest Green,Portsmouth,0,1
+E2,2223,22/10/2022,15:00,Milton Keynes Dons,Wycombe,0,1
+E2,2223,22/10/2022,15:00,Morecambe,Barnsley,1,0
+E2,2223,22/10/2022,15:00,Oxford,Peterboro,1,2
+E2,2223,22/10/2022,15:00,Shrewsbury,Charlton,0,1
+E2,2223,25/10/2022,19:45,Barnsley,Lincoln,0,1
+E2,2223,25/10/2022,19:45,Bolton,Burton,2,1
+E2,2223,25/10/2022,19:45,Charlton,Milton Keynes Dons,0,2
+E2,2223,25/10/2022,19:45,Cheltenham,Morecambe,1,0
+E2,2223,25/10/2022,19:45,Derby,Exeter,0,0
+E2,2223,25/10/2022,19:45,Fleetwood Town,Forest Green,1,1
+E2,2223,25/10/2022,19:45,Peterboro,Accrington,3,1
+E2,2223,25/10/2022,19:45,Plymouth,Shrewsbury,2,1
+E2,2223,25/10/2022,19:45,Port Vale,Ipswich,2,3
+E2,2223,25/10/2022,19:45,Portsmouth,Oxford,1,1
+E2,2223,25/10/2022,19:45,Wycombe,Cambridge,2,3
+E2,2223,26/10/2022,20:00,Sheffield Weds,Bristol Rvs,1,1
+E2,2223,29/10/2022,15:00,Barnsley,Forest Green,2,0
+E2,2223,29/10/2022,15:00,Bolton,Oxford,1,3
+E2,2223,29/10/2022,15:00,Charlton,Ipswich,4,4
+E2,2223,29/10/2022,15:00,Cheltenham,Milton Keynes Dons,0,0
+E2,2223,29/10/2022,15:00,Derby,Bristol Rvs,4,2
+E2,2223,29/10/2022,15:00,Fleetwood Town,Accrington,3,0
+E2,2223,29/10/2022,15:00,Peterboro,Cambridge,1,0
+E2,2223,29/10/2022,15:00,Port Vale,Lincoln,1,0
+E2,2223,29/10/2022,15:00,Portsmouth,Shrewsbury,1,1
+E2,2223,29/10/2022,15:00,Sheffield Weds,Burton,4,2
+E2,2223,29/10/2022,15:00,Wycombe,Morecambe,1,1
+E2,2223,31/10/2022,20:00,Plymouth,Exeter,4,2
+E2,2223,01/11/2022,19:45,Lincoln,Accrington,1,1
+E2,2223,01/11/2022,19:45,Morecambe,Derby,1,1
+E2,2223,01/11/2022,19:45,Oxford,Fleetwood Town,1,1
+E2,2223,01/11/2022,19:45,Wycombe,Port Vale,2,2
+E2,2223,09/11/2022,19:45,Shrewsbury,Oxford,1,1
+E2,2223,12/11/2022,15:00,Accrington,Sheffield Weds,0,1
+E2,2223,12/11/2022,15:00,Bristol Rvs,Fleetwood Town,2,2
+E2,2223,12/11/2022,15:00,Burton,Charlton,3,3
+E2,2223,12/11/2022,15:00,Cambridge,Bolton,0,0
+E2,2223,12/11/2022,15:00,Exeter,Peterboro,3,2
+E2,2223,12/11/2022,15:00,Forest Green,Wycombe,0,2
+E2,2223,12/11/2022,15:00,Ipswich,Cheltenham,1,1
+E2,2223,12/11/2022,15:00,Lincoln,Plymouth,1,1
+E2,2223,12/11/2022,15:00,Milton Keynes Dons,Derby,1,3
+E2,2223,12/11/2022,15:00,Morecambe,Portsmouth,1,1
+E2,2223,12/11/2022,15:00,Oxford,Port Vale,4,0
+E2,2223,12/11/2022,15:00,Shrewsbury,Barnsley,0,1
+E2,2223,18/11/2022,20:00,Portsmouth,Derby,0,0
+E2,2223,19/11/2022,12:00,Exeter,Ipswich,0,2
+E2,2223,19/11/2022,15:00,Barnsley,Milton Keynes Dons,3,1
+E2,2223,19/11/2022,15:00,Bristol Rvs,Peterboro,1,0
+E2,2223,19/11/2022,15:00,Burton,Plymouth,2,2
+E2,2223,19/11/2022,15:00,Cambridge,Accrington,0,1
+E2,2223,19/11/2022,15:00,Cheltenham,Wycombe,1,0
+E2,2223,19/11/2022,15:00,Fleetwood Town,Bolton,1,2
+E2,2223,19/11/2022,15:00,Lincoln,Morecambe,2,1
+E2,2223,19/11/2022,15:00,Oxford,Forest Green,1,1
+E2,2223,19/11/2022,15:00,Port Vale,Charlton,1,0
+E2,2223,19/11/2022,15:00,Sheffield Weds,Shrewsbury,1,0
+E2,2223,02/12/2022,19:45,Bolton,Bristol Rvs,1,1
+E2,2223,02/12/2022,19:45,Charlton,Cheltenham,0,1
+E2,2223,02/12/2022,19:45,Ipswich,Fleetwood Town,1,1
+E2,2223,02/12/2022,19:45,Morecambe,Exeter,1,1
+E2,2223,02/12/2022,19:45,Peterboro,Barnsley,1,2
+E2,2223,02/12/2022,19:45,Plymouth,Port Vale,0,2
+E2,2223,03/12/2022,12:30,Derby,Sheffield Weds,0,0
+E2,2223,03/12/2022,12:30,Milton Keynes Dons,Burton,1,1
+E2,2223,03/12/2022,12:30,Shrewsbury,Lincoln,2,0
+E2,2223,03/12/2022,13:00,Forest Green,Cambridge,2,1
+E2,2223,03/12/2022,15:00,Accrington,Oxford,1,1
+E2,2223,04/12/2022,12:30,Wycombe,Portsmouth,2,0
+E2,2223,10/12/2022,12:30,Ipswich,Peterboro,2,1
+E2,2223,10/12/2022,12:30,Shrewsbury,Bolton,3,2
+E2,2223,10/12/2022,14:00,Burton,Derby,1,1
+E2,2223,10/12/2022,14:00,Forest Green,Cheltenham,1,0
+E2,2223,10/12/2022,15:00,Bristol Rvs,Port Vale,1,0
+E2,2223,10/12/2022,15:00,Cambridge,Plymouth,0,0
+E2,2223,10/12/2022,15:00,Exeter,Sheffield Weds,1,1
+E2,2223,10/12/2022,15:00,Lincoln,Wycombe,0,0
+E2,2223,10/12/2022,15:00,Milton Keynes Dons,Fleetwood Town,1,2
+E2,2223,17/12/2022,15:00,Barnsley,Burton,2,0
+E2,2223,17/12/2022,15:00,Bolton,Exeter,2,0
+E2,2223,17/12/2022,15:00,Charlton,Bristol Rvs,1,2
+E2,2223,17/12/2022,15:00,Derby,Forest Green,4,0
+E2,2223,17/12/2022,15:00,Plymouth,Morecambe,2,1
+E2,2223,17/12/2022,15:00,Portsmouth,Milton Keynes Dons,0,2
+E2,2223,17/12/2022,15:00,Sheffield Weds,Oxford,0,0
+E2,2223,17/12/2022,15:00,Wycombe,Ipswich,1,0
+E2,2223,26/12/2022,15:00,Accrington,Barnsley,1,1
+E2,2223,26/12/2022,15:00,Burton,Lincoln,3,0
+E2,2223,26/12/2022,15:00,Cambridge,Shrewsbury,2,1
+E2,2223,26/12/2022,15:00,Charlton,Peterboro,1,1
+E2,2223,26/12/2022,15:00,Cheltenham,Plymouth,0,1
+E2,2223,26/12/2022,15:00,Exeter,Portsmouth,0,0
+E2,2223,26/12/2022,15:00,Fleetwood Town,Sheffield Weds,1,2
+E2,2223,26/12/2022,15:00,Ipswich,Oxford,3,0
+E2,2223,26/12/2022,15:00,Milton Keynes Dons,Forest Green,1,0
+E2,2223,26/12/2022,15:00,Port Vale,Morecambe,1,0
+E2,2223,26/12/2022,15:00,Wycombe,Bristol Rvs,2,1
+E2,2223,27/12/2022,15:00,Bolton,Derby,0,0
+E2,2223,29/12/2022,19:45,Barnsley,Fleetwood Town,2,1
+E2,2223,29/12/2022,19:45,Bristol Rvs,Exeter,3,4
+E2,2223,29/12/2022,19:45,Forest Green,Burton,1,2
+E2,2223,29/12/2022,19:45,Morecambe,Accrington,2,0
+E2,2223,29/12/2022,19:45,Oxford,Charlton,3,1
+E2,2223,29/12/2022,19:45,Peterboro,Milton Keynes Dons,2,0
+E2,2223,29/12/2022,19:45,Plymouth,Wycombe,1,0
+E2,2223,29/12/2022,19:45,Portsmouth,Ipswich,2,2
+E2,2223,29/12/2022,19:45,Sheffield Weds,Port Vale,2,0
+E2,2223,29/12/2022,19:45,Shrewsbury,Cheltenham,0,1
+E2,2223,30/12/2022,19:45,Derby,Cambridge,1,0
+E2,2223,30/12/2022,19:45,Lincoln,Bolton,1,1
+E2,2223,01/01/2023,15:00,Bristol Rvs,Cheltenham,2,1
+E2,2223,01/01/2023,15:00,Forest Green,Port Vale,1,3
+E2,2223,01/01/2023,15:00,Morecambe,Burton,5,0
+E2,2223,01/01/2023,15:00,Oxford,Exeter,0,1
+E2,2223,01/01/2023,15:00,Peterboro,Wycombe,0,3
+E2,2223,01/01/2023,15:00,Plymouth,Milton Keynes Dons,3,1
+E2,2223,01/01/2023,15:00,Portsmouth,Charlton,1,3
+E2,2223,01/01/2023,15:00,Shrewsbury,Fleetwood Town,0,3
+E2,2223,02/01/2023,15:00,Barnsley,Bolton,0,3
+E2,2223,02/01/2023,15:00,Derby,Accrington,4,0
+E2,2223,02/01/2023,15:00,Lincoln,Ipswich,1,1
+E2,2223,02/01/2023,15:00,Sheffield Weds,Cambridge,5,0
+E2,2223,07/01/2023,15:00,Bolton,Plymouth,0,0
+E2,2223,07/01/2023,15:00,Cambridge,Bristol Rvs,1,2
+E2,2223,07/01/2023,15:00,Charlton,Lincoln,2,1
+E2,2223,07/01/2023,15:00,Morecambe,Cheltenham,2,1
+E2,2223,14/01/2023,15:00,Accrington,Bristol Rvs,2,0
+E2,2223,14/01/2023,15:00,Bolton,Portsmouth,3,0
+E2,2223,14/01/2023,15:00,Burton,Shrewsbury,0,4
+E2,2223,14/01/2023,15:00,Charlton,Barnsley,2,0
+E2,2223,14/01/2023,15:00,Cheltenham,Derby,2,3
+E2,2223,14/01/2023,15:00,Exeter,Forest Green,1,1
+E2,2223,14/01/2023,15:00,Fleetwood Town,Oxford,1,2
+E2,2223,14/01/2023,15:00,Ipswich,Plymouth,1,1
+E2,2223,14/01/2023,15:00,Milton Keynes Dons,Lincoln,0,0
+E2,2223,14/01/2023,15:00,Wycombe,Sheffield Weds,0,1
+E2,2223,16/01/2023,20:00,Port Vale,Peterboro,0,2
+E2,2223,21/01/2023,15:00,Barnsley,Accrington,3,1
+E2,2223,21/01/2023,15:00,Derby,Bolton,2,1
+E2,2223,21/01/2023,15:00,Forest Green,Milton Keynes Dons,1,2
+E2,2223,21/01/2023,15:00,Oxford,Ipswich,2,1
+E2,2223,21/01/2023,15:00,Plymouth,Cheltenham,4,2
+E2,2223,21/01/2023,15:00,Portsmouth,Exeter,2,0
+E2,2223,21/01/2023,15:00,Sheffield Weds,Fleetwood Town,1,0
+E2,2223,21/01/2023,15:00,Shrewsbury,Cambridge,5,1
+E2,2223,24/01/2023,19:45,Bolton,Forest Green,1,0
+E2,2223,24/01/2023,19:45,Fleetwood Town,Portsmouth,0,2
+E2,2223,24/01/2023,19:45,Ipswich,Morecambe,4,0
+E2,2223,24/01/2023,19:45,Milton Keynes Dons,Shrewsbury,0,1
+E2,2223,24/01/2023,19:45,Port Vale,Derby,1,2
+E2,2223,24/01/2023,19:45,Wycombe,Oxford,2,0
+E2,2223,28/01/2023,12:30,Charlton,Bolton,1,2
+E2,2223,28/01/2023,15:00,Burton,Oxford,2,0
+E2,2223,28/01/2023,15:00,Cheltenham,Port Vale,0,0
+E2,2223,28/01/2023,15:00,Lincoln,Cambridge,0,0
+E2,2223,28/01/2023,15:00,Milton Keynes Dons,Exeter,0,2
+E2,2223,28/01/2023,15:00,Morecambe,Bristol Rvs,5,1
+E2,2223,28/01/2023,15:00,Peterboro,Portsmouth,2,1
+E2,2223,28/01/2023,15:00,Shrewsbury,Forest Green,2,1
+E2,2223,01/02/2023,19:45,Oxford,Barnsley,1,2
+E2,2223,04/02/2023,15:00,Accrington,Lincoln,0,3
+E2,2223,04/02/2023,15:00,Bolton,Cheltenham,1,0
+E2,2223,04/02/2023,15:00,Bristol Rvs,Milton Keynes Dons,0,2
+E2,2223,04/02/2023,15:00,Cambridge,Ipswich,1,1
+E2,2223,04/02/2023,15:00,Derby,Morecambe,5,0
+E2,2223,04/02/2023,15:00,Exeter,Charlton,1,2
+E2,2223,04/02/2023,15:00,Fleetwood Town,Burton,2,3
+E2,2223,04/02/2023,15:00,Forest Green,Peterboro,0,2
+E2,2223,04/02/2023,15:00,Oxford,Shrewsbury,0,1
+E2,2223,04/02/2023,15:00,Port Vale,Wycombe,0,3
+E2,2223,04/02/2023,15:00,Portsmouth,Barnsley,1,1
+E2,2223,04/02/2023,15:00,Sheffield Weds,Plymouth,1,0
+E2,2223,07/02/2023,19:45,Port Vale,Accrington,1,1
+E2,2223,11/02/2023,15:00,Barnsley,Cambridge,2,0
+E2,2223,11/02/2023,15:00,Burton,Exeter,1,0
+E2,2223,11/02/2023,15:00,Charlton,Fleetwood Town,1,2
+E2,2223,11/02/2023,15:00,Cheltenham,Accrington,0,0
+E2,2223,11/02/2023,15:00,Ipswich,Sheffield Weds,2,2
+E2,2223,11/02/2023,15:00,Lincoln,Bristol Rvs,1,0
+E2,2223,11/02/2023,15:00,Milton Keynes Dons,Oxford,1,1
+E2,2223,11/02/2023,15:00,Morecambe,Forest Green,1,1
+E2,2223,11/02/2023,15:00,Peterboro,Bolton,0,5
+E2,2223,11/02/2023,15:00,Plymouth,Portsmouth,3,1
+E2,2223,11/02/2023,15:00,Shrewsbury,Port Vale,3,2
+E2,2223,11/02/2023,15:00,Wycombe,Derby,3,2
+E2,2223,14/02/2023,19:45,Accrington,Wycombe,0,2
+E2,2223,14/02/2023,19:45,Bolton,Milton Keynes Dons,5,0
+E2,2223,14/02/2023,19:45,Bristol Rvs,Ipswich,0,0
+E2,2223,14/02/2023,19:45,Cambridge,Cheltenham,1,2
+E2,2223,14/02/2023,19:45,Derby,Lincoln,1,1
+E2,2223,14/02/2023,19:45,Exeter,Shrewsbury,0,0
+E2,2223,14/02/2023,19:45,Fleetwood Town,Peterboro,1,0
+E2,2223,14/02/2023,19:45,Forest Green,Charlton,0,1
+E2,2223,14/02/2023,19:45,Oxford,Plymouth,1,3
+E2,2223,14/02/2023,19:45,Port Vale,Barnsley,1,3
+E2,2223,14/02/2023,19:45,Portsmouth,Burton,1,0
+E2,2223,14/02/2023,19:45,Sheffield Weds,Morecambe,3,0
+E2,2223,18/02/2023,15:00,Accrington,Shrewsbury,1,0
+E2,2223,18/02/2023,15:00,Bristol Rvs,Burton,1,2
+E2,2223,18/02/2023,15:00,Cambridge,Oxford,1,0
+E2,2223,18/02/2023,15:00,Cheltenham,Barnsley,0,4
+E2,2223,18/02/2023,15:00,Derby,Charlton,2,0
+E2,2223,18/02/2023,15:00,Ipswich,Forest Green,4,0
+E2,2223,18/02/2023,15:00,Lincoln,Portsmouth,0,0
+E2,2223,18/02/2023,15:00,Morecambe,Peterboro,0,3
+E2,2223,18/02/2023,15:00,Plymouth,Fleetwood Town,0,0
+E2,2223,18/02/2023,15:00,Port Vale,Exeter,1,0
+E2,2223,18/02/2023,15:00,Sheffield Weds,Milton Keynes Dons,5,2
+E2,2223,18/02/2023,15:00,Wycombe,Bolton,1,0
+E2,2223,21/02/2023,19:45,Fleetwood Town,Cambridge,1,0
+E2,2223,21/02/2023,19:45,Morecambe,Port Vale,1,0
+E2,2223,25/02/2023,12:30,Oxford,Bristol Rvs,0,3
+E2,2223,25/02/2023,15:00,Barnsley,Derby,4,1
+E2,2223,25/02/2023,15:00,Bolton,Port Vale,2,1
+E2,2223,25/02/2023,15:00,Burton,Accrington,0,0
+E2,2223,25/02/2023,15:00,Charlton,Sheffield Weds,0,1
+E2,2223,25/02/2023,15:00,Exeter,Cambridge,2,0
+E2,2223,25/02/2023,15:00,Fleetwood Town,Morecambe,1,0
+E2,2223,25/02/2023,15:00,Forest Green,Lincoln,1,1
+E2,2223,25/02/2023,15:00,Milton Keynes Dons,Ipswich,0,1
+E2,2223,25/02/2023,15:00,Peterboro,Plymouth,5,2
+E2,2223,25/02/2023,15:00,Portsmouth,Cheltenham,4,0
+E2,2223,25/02/2023,15:00,Shrewsbury,Wycombe,2,0
+E2,2223,28/02/2023,19:45,Derby,Cheltenham,2,0
+E2,2223,28/02/2023,19:45,Lincoln,Milton Keynes Dons,1,1
+E2,2223,28/02/2023,19:45,Peterboro,Charlton,0,0
+E2,2223,28/02/2023,19:45,Portsmouth,Bolton,3,1
+E2,2223,04/03/2023,12:30,Morecambe,Bolton,0,0
+E2,2223,04/03/2023,15:00,Accrington,Forest Green,2,1
+E2,2223,04/03/2023,15:00,Bristol Rvs,Barnsley,0,0
+E2,2223,04/03/2023,15:00,Cambridge,Portsmouth,0,1
+E2,2223,04/03/2023,15:00,Cheltenham,Fleetwood Town,1,0
+E2,2223,04/03/2023,15:00,Derby,Shrewsbury,2,2
+E2,2223,04/03/2023,15:00,Ipswich,Burton,4,0
+E2,2223,04/03/2023,15:00,Lincoln,Oxford,1,0
+E2,2223,04/03/2023,15:00,Plymouth,Charlton,2,0
+E2,2223,04/03/2023,15:00,Port Vale,Milton Keynes Dons,1,0
+E2,2223,04/03/2023,15:00,Sheffield Weds,Peterboro,1,0
+E2,2223,04/03/2023,15:00,Wycombe,Exeter,1,1
+E2,2223,07/03/2023,19:45,Barnsley,Portsmouth,3,1
+E2,2223,07/03/2023,19:45,Cambridge,Morecambe,1,1
+E2,2223,07/03/2023,19:45,Cheltenham,Lincoln,0,0
+E2,2223,07/03/2023,19:45,Ipswich,Accrington,3,0
+E2,2223,07/03/2023,19:45,Peterboro,Shrewsbury,2,1
+E2,2223,07/03/2023,19:45,Wycombe,Fleetwood Town,2,0
+E2,2223,07/03/2023,20:00,Plymouth,Derby,2,1
+E2,2223,11/03/2023,15:00,Barnsley,Plymouth,3,0
+E2,2223,11/03/2023,15:00,Bolton,Ipswich,0,2
+E2,2223,11/03/2023,15:00,Burton,Wycombe,2,1
+E2,2223,11/03/2023,15:00,Charlton,Accrington,1,1
+E2,2223,11/03/2023,15:00,Exeter,Lincoln,2,1
+E2,2223,11/03/2023,15:00,Fleetwood Town,Port Vale,1,1
+E2,2223,11/03/2023,15:00,Forest Green,Bristol Rvs,1,3
+E2,2223,11/03/2023,15:00,Milton Keynes Dons,Cambridge,1,0
+E2,2223,11/03/2023,15:00,Oxford,Derby,2,3
+E2,2223,11/03/2023,15:00,Peterboro,Cheltenham,0,3
+E2,2223,11/03/2023,15:00,Portsmouth,Sheffield Weds,0,1
+E2,2223,11/03/2023,15:00,Shrewsbury,Morecambe,3,1
+E2,2223,14/03/2023,19:45,Accrington,Portsmouth,1,3
+E2,2223,14/03/2023,19:45,Bristol Rvs,Wycombe,0,2
+E2,2223,14/03/2023,19:45,Burton,Peterboro,2,5
+E2,2223,14/03/2023,19:45,Morecambe,Charlton,1,4
+E2,2223,17/03/2023,19:45,Sheffield Weds,Bolton,1,1
+E2,2223,18/03/2023,13:00,Lincoln,Peterboro,0,3
+E2,2223,18/03/2023,15:00,Accrington,Milton Keynes Dons,0,1
+E2,2223,18/03/2023,15:00,Bristol Rvs,Portsmouth,0,2
+E2,2223,18/03/2023,15:00,Cambridge,Charlton,1,2
+E2,2223,18/03/2023,15:00,Cheltenham,Exeter,3,1
+E2,2223,18/03/2023,15:00,Derby,Fleetwood Town,0,2
+E2,2223,18/03/2023,15:00,Ipswich,Shrewsbury,2,0
+E2,2223,18/03/2023,15:00,Morecambe,Oxford,1,1
+E2,2223,18/03/2023,15:00,Plymouth,Forest Green,2,0
+E2,2223,18/03/2023,15:00,Port Vale,Burton,2,3
+E2,2223,18/03/2023,15:00,Wycombe,Barnsley,0,1
+E2,2223,21/03/2023,19:45,Accrington,Plymouth,0,2
+E2,2223,21/03/2023,20:00,Barnsley,Sheffield Weds,4,2
+E2,2223,25/03/2023,15:00,Charlton,Wycombe,1,1
+E2,2223,25/03/2023,15:00,Exeter,Accrington,5,0
+E2,2223,25/03/2023,15:00,Fleetwood Town,Lincoln,2,1
+E2,2223,25/03/2023,15:00,Milton Keynes Dons,Morecambe,1,0
+E2,2223,25/03/2023,15:00,Peterboro,Derby,2,0
+E2,2223,25/03/2023,15:00,Portsmouth,Port Vale,2,2
+E2,2223,26/03/2023,13:00,Forest Green,Sheffield Weds,1,0
+E2,2223,28/03/2023,19:45,Exeter,Barnsley,3,1
+E2,2223,29/03/2023,19:45,Cheltenham,Sheffield Weds,2,2
+E2,2223,01/04/2023,15:00,Barnsley,Morecambe,5,0
+E2,2223,01/04/2023,15:00,Charlton,Shrewsbury,6,0
+E2,2223,01/04/2023,15:00,Cheltenham,Burton,0,0
+E2,2223,01/04/2023,15:00,Derby,Ipswich,0,2
+E2,2223,01/04/2023,15:00,Fleetwood Town,Exeter,2,2
+E2,2223,01/04/2023,15:00,Peterboro,Oxford,0,0
+E2,2223,01/04/2023,15:00,Port Vale,Cambridge,0,2
+E2,2223,01/04/2023,15:00,Portsmouth,Forest Green,1,0
+E2,2223,01/04/2023,15:00,Sheffield Weds,Lincoln,1,1
+E2,2223,01/04/2023,15:00,Wycombe,Milton Keynes Dons,2,2
+E2,2223,07/04/2023,15:00,Accrington,Port Vale,3,0
+E2,2223,07/04/2023,15:00,Bristol Rvs,Charlton,1,0
+E2,2223,07/04/2023,15:00,Burton,Barnsley,2,1
+E2,2223,07/04/2023,15:00,Cambridge,Fleetwood Town,2,1
+E2,2223,07/04/2023,15:00,Exeter,Bolton,0,1
+E2,2223,07/04/2023,15:00,Forest Green,Derby,0,2
+E2,2223,07/04/2023,15:00,Ipswich,Wycombe,4,0
+E2,2223,07/04/2023,15:00,Lincoln,Cheltenham,2,0
+E2,2223,07/04/2023,15:00,Milton Keynes Dons,Portsmouth,1,1
+E2,2223,07/04/2023,15:00,Morecambe,Plymouth,1,3
+E2,2223,07/04/2023,15:00,Oxford,Sheffield Weds,1,1
+E2,2223,07/04/2023,15:00,Shrewsbury,Peterboro,0,3
+E2,2223,10/04/2023,15:00,Barnsley,Shrewsbury,2,1
+E2,2223,10/04/2023,15:00,Bolton,Cambridge,1,1
+E2,2223,10/04/2023,15:00,Charlton,Burton,3,2
+E2,2223,10/04/2023,15:00,Cheltenham,Ipswich,1,1
+E2,2223,10/04/2023,15:00,Derby,Milton Keynes Dons,1,1
+E2,2223,10/04/2023,15:00,Fleetwood Town,Bristol Rvs,1,2
+E2,2223,10/04/2023,15:00,Peterboro,Exeter,3,1
+E2,2223,10/04/2023,15:00,Plymouth,Lincoln,0,2
+E2,2223,10/04/2023,15:00,Port Vale,Oxford,0,0
+E2,2223,10/04/2023,15:00,Portsmouth,Morecambe,0,0
+E2,2223,10/04/2023,15:00,Sheffield Weds,Accrington,3,0
+E2,2223,10/04/2023,15:00,Wycombe,Forest Green,2,0
+E2,2223,15/04/2023,12:00,Exeter,Plymouth,0,1
+E2,2223,15/04/2023,12:30,Cambridge,Peterboro,2,0
+E2,2223,15/04/2023,15:00,Accrington,Fleetwood Town,2,5
+E2,2223,15/04/2023,15:00,Bristol Rvs,Derby,1,1
+E2,2223,15/04/2023,15:00,Burton,Sheffield Weds,3,2
+E2,2223,15/04/2023,15:00,Forest Green,Barnsley,1,5
+E2,2223,15/04/2023,15:00,Ipswich,Charlton,6,0
+E2,2223,15/04/2023,15:00,Lincoln,Port Vale,3,2
+E2,2223,15/04/2023,15:00,Milton Keynes Dons,Cheltenham,2,2
+E2,2223,15/04/2023,15:00,Morecambe,Wycombe,1,0
+E2,2223,15/04/2023,15:00,Oxford,Bolton,0,1
+E2,2223,15/04/2023,15:00,Shrewsbury,Portsmouth,1,1
+E2,2223,18/04/2023,19:45,Accrington,Peterboro,1,2
+E2,2223,18/04/2023,19:45,Bristol Rvs,Sheffield Weds,1,2
+E2,2223,18/04/2023,19:45,Burton,Bolton,1,1
+E2,2223,18/04/2023,19:45,Cambridge,Wycombe,1,2
+E2,2223,18/04/2023,19:45,Exeter,Derby,1,2
+E2,2223,18/04/2023,19:45,Forest Green,Fleetwood Town,0,0
+E2,2223,18/04/2023,19:45,Ipswich,Port Vale,2,1
+E2,2223,18/04/2023,19:45,Lincoln,Barnsley,0,0
+E2,2223,18/04/2023,19:45,Milton Keynes Dons,Charlton,0,1
+E2,2223,18/04/2023,19:45,Oxford,Portsmouth,1,1
+E2,2223,18/04/2023,19:45,Shrewsbury,Plymouth,1,2
+E2,2223,22/04/2023,15:00,Barnsley,Oxford,2,0
+E2,2223,22/04/2023,15:00,Bolton,Shrewsbury,1,0
+E2,2223,22/04/2023,15:00,Charlton,Morecambe,2,3
+E2,2223,22/04/2023,15:00,Cheltenham,Forest Green,3,1
+E2,2223,22/04/2023,15:00,Derby,Burton,1,0
+E2,2223,22/04/2023,15:00,Fleetwood Town,Milton Keynes Dons,1,0
+E2,2223,22/04/2023,15:00,Peterboro,Ipswich,0,3
+E2,2223,22/04/2023,15:00,Plymouth,Cambridge,3,1
+E2,2223,22/04/2023,15:00,Port Vale,Bristol Rvs,2,0
+E2,2223,22/04/2023,15:00,Portsmouth,Accrington,1,0
+E2,2223,22/04/2023,15:00,Sheffield Weds,Exeter,2,1
+E2,2223,22/04/2023,15:00,Wycombe,Lincoln,0,2
+E2,2223,25/04/2023,19:45,Barnsley,Ipswich,0,3
+E2,2223,25/04/2023,19:45,Bolton,Accrington,0,1
+E2,2223,25/04/2023,19:45,Lincoln,Burton,0,1
+E2,2223,25/04/2023,19:45,Oxford,Cheltenham,4,0
+E2,2223,25/04/2023,19:45,Plymouth,Bristol Rvs,2,0
+E2,2223,29/04/2023,15:00,Accrington,Cambridge,1,2
+E2,2223,29/04/2023,15:00,Bolton,Fleetwood Town,2,0
+E2,2223,29/04/2023,15:00,Charlton,Port Vale,3,2
+E2,2223,29/04/2023,15:00,Derby,Portsmouth,1,1
+E2,2223,29/04/2023,15:00,Forest Green,Oxford,0,3
+E2,2223,29/04/2023,15:00,Ipswich,Exeter,6,0
+E2,2223,29/04/2023,15:00,Milton Keynes Dons,Barnsley,4,4
+E2,2223,29/04/2023,15:00,Morecambe,Lincoln,3,2
+E2,2223,29/04/2023,15:00,Peterboro,Bristol Rvs,0,0
+E2,2223,29/04/2023,15:00,Plymouth,Burton,1,0
+E2,2223,29/04/2023,15:00,Shrewsbury,Sheffield Weds,0,3
+E2,2223,29/04/2023,15:00,Wycombe,Cheltenham,0,3
+E2,2223,02/05/2023,19:45,Shrewsbury,Bristol Rvs,2,1
+E2,2223,03/05/2023,19:45,Burton,Cambridge,1,0
+E2,2223,07/05/2023,12:00,Barnsley,Peterboro,0,2
+E2,2223,07/05/2023,12:00,Bristol Rvs,Bolton,2,3
+E2,2223,07/05/2023,12:00,Burton,Milton Keynes Dons,0,0
+E2,2223,07/05/2023,12:00,Cambridge,Forest Green,2,0
+E2,2223,07/05/2023,12:00,Cheltenham,Charlton,2,2
+E2,2223,07/05/2023,12:00,Exeter,Morecambe,3,2
+E2,2223,07/05/2023,12:00,Fleetwood Town,Ipswich,2,2
+E2,2223,07/05/2023,12:00,Lincoln,Shrewsbury,1,0
+E2,2223,07/05/2023,12:00,Oxford,Accrington,1,2
+E2,2223,07/05/2023,12:00,Port Vale,Plymouth,1,3
+E2,2223,07/05/2023,12:00,Portsmouth,Wycombe,2,2
+E2,2223,07/05/2023,12:00,Sheffield Weds,Derby,1,0
